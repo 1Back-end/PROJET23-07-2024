@@ -48,7 +48,7 @@
                     <span class="icon-bg"><i class="fas fa-cogs"></i></span>
                     </div>
                     <div class="mb-3">
-                        <h5 class="text-uppercase fw-bold">Visiter le CANADA</h5>
+                        <h5 class="text-uppercase fw-bold">Visiterz le CANADA</h5>
                     </div>
                     <div class="mb-3">
                         <p class="small  text-muted">
@@ -67,7 +67,7 @@
                     <span class="icon-bg"><i class="fas fa-cogs"></i></span>
                     </div>
                     <div class="mb-3">
-                        <h5 class="text-uppercase fw-bold">Travailler au CANADA</h5>
+                        <h5 class="text-uppercase fw-bold">Travaillez au CANADA</h5>
                     </div>
                     <div class="mb-3">
                         <p class="small text-muted">
@@ -86,7 +86,7 @@
                     <span class="icon-bg"><i class="fas fa-cogs"></i></span>
                     </div>
                     <div class="mb-3">
-                        <h5 class="text-uppercase fw-bold">Etudier au CANADA</h5>
+                        <h5 class="text-uppercase fw-bold">Etudiez au CANADA</h5>
                     </div>
                     <div class="mb-3">
                         <p class="small text-muted">

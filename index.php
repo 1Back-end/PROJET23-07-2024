@@ -76,7 +76,7 @@
                     </div>
                     <div>
                         <p class="small">
-                        Voyagez l’esprit tranquille avec World Travel Company, où chaque aspect de votre expérience est soigneusement pris en charge. Nous garantissons la sécurité totale de vos paiements grâce à des technologies de pointe et des protocoles rigoureux. Vos informations financières sont protégées à chaque étape de votre voyage. Concentrez-vous sur la découverte et l'aventure, nous veillons à votre tranquillité d'esprit.
+                        Voyagez l’esprit tranquille avec <b>World Travel Company</b>, où chaque aspect de votre expérience est soigneusement pris en charge. Nous garantissons la sécurité totale de vos paiements grâce à des technologies de pointe et des protocoles rigoureux. Vos informations financières sont protégées à chaque étape de votre voyage. Concentrez-vous sur la découverte et l'aventure, nous veillons à votre tranquillité d'esprit.
                         </p>
                     </div>
                 </div>

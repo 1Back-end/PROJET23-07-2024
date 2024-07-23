@@ -389,43 +389,11 @@ footer i:hover{
     margin-bottom: 1.5rem;
 }
 .form-control {
-    border-radius: 20px;
+    border-radius: 50px;
     padding: 0.75rem 1.25rem;
     font-size: 0.9rem;
 }
-.language-select {
-    display: flex;
-    align-items: center;
-    margin-bottom: 1rem;
-}
 
-.language-select select {
-    appearance: none;
-    -webkit-appearance: none;
-    -moz-appearance: none;
-    padding: 0.5rem 1rem;
-    font-size: 1rem;
-    border: 1px solid #ccc;
-    border-radius: 5px;
-    background: url('data:image/svg+xml;charset=UTF-8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="gray"><path d="M7 10l5 5 5-5z"/></svg>') no-repeat right 0.75rem center;
-    background-color: white;
-    background-size: 1rem;
-}
-
-.language-select select option {
-    background-size: 1rem;
-    padding-left: 1.5rem;
-    background-repeat: no-repeat;
-    background-position: left 0.5rem center;
-}
-
-.language-select select option[value="fr"] {
-    background-image: url('https://cdn.countryflags.com/thumbs/france/flag-400.png');
-}
-
-.language-select select option[value="en"] {
-    background-image: url('https://cdn.countryflags.com/thumbs/united-kingdom/flag-400.png');
-}
 /* Pour les écrans larges */
 
 @media (max-width:732px) {

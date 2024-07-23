@@ -48,15 +48,15 @@
                     <span class="icon-bg"><i class="fas fa-cogs"></i></span>
                     </div>
                     <div class="mb-3">
-                        <h5 class="text-uppercase fw-bold">Visiter aux Mexique</h5>
+                        <h5 class="text-uppercase fw-bold">Visitez les USA</h5>
                     </div>
                     <div class="mb-3">
                         <p class="small text-muted">
-                        Découvrez les paysages spectaculaires du Mexique, où la culture vibrante rencontre des plages idylliques. Profitez des trésors historiques et des aventures uniques dans ce pays fascinant.
+                        Découvrez l'Amérique avec World Travel Company : des gratte-ciels de New York aux plages de Californie, vivez des expériences uniques et mémorables. Embarquez pour un voyage sur mesure à travers les États-Unis et transformez vos rêves en réalité !
                         </p>
                     </div>
                     <div class="mb-3">
-                    <a href="page_details_1.php" class="btn-services animate__animated animate__fadeInUp">Plus d'infos</a>
+                    <a href="visiter_usa.php" class="btn-services animate__animated animate__fadeInUp">Plus d'infos</a>
                     </div>
                 </div>
             </div>
@@ -67,15 +67,15 @@
                     <span class="icon-bg"><i class="fas fa-cogs"></i></span>
                     </div>
                     <div class="mb-3">
-                        <h5 class="text-uppercase fw-bold">Travailler au Mexique</h5>
+                        <h5 class="text-uppercase fw-bold">Travaillez aux USA</h5>
                     </div>
                     <div class="mb-3">
                         <p class="small text-muted">
-                        Explorez les opportunités professionnelles au Mexique, un pays offrant une dynamique économique et une culture accueillante. Découvrez des carrières enrichissantes dans un cadre ensoleillé et diversifié.
+                        Réalisez vos rêves professionnels aux États-Unis avec World Travel Company : bénéficiez de notre expertise pour des opportunités de carrière uniques et un accompagnement personnalisé. Transformez votre ambition en succès sur le sol américain !
                         </p>
                     </div>
                     <div class="mb-3">
-                    <a href="page_details_2.php" class="btn-services animate__animated animate__fadeInUp">Plus d'infos</a>
+                    <a href="travailler_usa.php" class="btn-services animate__animated animate__fadeInUp">Plus d'infos</a>
                     </div>
                 </div>
             </div>
@@ -86,15 +86,15 @@
                     <span class="icon-bg"><i class="fas fa-cogs"></i></span>
                     </div>
                     <div class="mb-3">
-                        <h5 class="text-uppercase fw-bold">Etudier au Mexique</h5>
+                        <h5 class="text-uppercase fw-bold">Etudiez aux USA</h5>
                     </div>
                     <div class="mb-3">
                         <p class="small text-muted">
-                        Plongez dans l'expérience académique au Mexique, où des institutions de renom offrent des formations de qualité dans un environnement culturellement riche. Profitez d'une éducation immersive tout en explorant les merveilles de ce pays fascinant.
+                        Explorez les meilleures opportunités éducatives aux États-Unis avec World Travel Company : bénéficiez de notre expertise pour un accompagnement personnalisé vers une carrière internationale réussie. Transformez votre avenir académique avec nous !
                         </p>
                     </div>
                     <div class="mb-3">
-                    <a href="page_details_3.php" class="btn-services animate__animated animate__fadeInUp">Plus d'infos</a>
+                    <a href="etudier_usa.php" class="btn-services animate__animated animate__fadeInUp">Plus d'infos</a>
                     </div>
                 </div>
             </div>           
