@@ -1,0 +1,439 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style: none;
+    scroll-behavior: smooth;
+    font-family: "Poppins", sans-serif;
+}
+:root{
+    --btn:#1F4283;
+    --bg-white : #fff;
+    --text-primary:#1F4283;
+    --bg-dark:#131e22;
+    --text-muted:#444;
+    --bg-success:#28a745;
+}
+body{
+    min-height: 100vh;
+    
+}
+/* header section start */
+.login-btn{
+    background-color: var(--btn);
+    color: var(--bg-white);
+    font-size: 14px;
+    padding: 8px 20px;
+    text-decoration: none;
+    border: none;
+    cursor: pointer;
+    transition: 0.3s ease-in-out;
+    border-radius: 50px;
+}
+.submit_btn{
+    background-color: var(--btn);
+    color: var(--bg-white);
+    font-size: 14px;
+    padding: 15px 25px;
+    text-decoration: none;
+    border: none;
+    cursor: pointer;
+    transition: 0.3s ease-in-out;
+}
+
+.btn-services1{
+    background-color: var(--bg-success);
+    color: var(--bg-white);
+    font-size: 14px;
+    padding: 15px 20px;
+    text-decoration: none;
+    border: none;
+    cursor: pointer;
+    transition: 0.3s ease-in-out;
+    border-radius: 50px;
+}
+.btn-services{
+    background-color: var(--btn);
+    color: var(--bg-white);
+    font-size: 14px;
+    padding: 15px 20px;
+    text-decoration: none;
+    border: none;
+    cursor: pointer;
+    transition: 0.3s ease-in-out;
+    border-radius: 50px;
+}
+.login-btn:hover{
+    background-color: var(--bg-dark);
+    color: var(--bg-white);
+    transition: 0.3s ease-in-out;
+}*
+.navbar-toggler{
+    border: none;
+    font-size: 1.25rem;
+    transition: 0.3s ease-in-out;
+}
+.navbar-toggler:focus, .btn-close:focus{
+    outline: none;
+    box-shadow: none;
+}
+.nav-link{
+    color: var(--text-primary);
+    transition: 0.3s ease-in-out;
+    position: relative;
+}
+.nav-link:hover , .nav-link.active{
+    color: var(--bg-dark);
+    transition: 0.3s ease-in-out;
+}
+@media(min-width:991px){
+.nav-link::before{
+    content: "";
+    position: absolute;
+    bottom:0;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 0;
+    height: 2px;
+    background-color: var(--bg-dark);
+    visibility: hidden;
+    opacity: 0;
+    transition: 0.3s ease-in-out;
+   
+
+}
+.nav-link:hover::before,.nav-link.nav-link.active::before{
+    visibility: visible;
+    opacity: 1;
+    width: 100%;
+    border-radius: 16px;
+}
+
+}
+.navbar-brand {
+  font-weight: 800;
+  color: var(--text-primary);
+  font-family: 24px;
+  transition: 0.3s ease-in-out;
+}
+.navbar{
+    background-color: var(--bg-white);
+    height: 80px;
+    color: var(--text-primary);
+    margin: 20px;
+    position: fixed;
+    z-index: 100;
+    border-radius: 50px;
+    padding: 0.5rem;
+    transition: 0.3s ease-in-out;
+    z-index: 99;
+}
+.hero-section{
+    background: url(image/IMG_2733.JPG) no-repeat center;
+    background-size: cover;
+    width: 100%;
+    height: 100vh;
+}
+
+.hero-section::before{
+    background-color: rgba(0, 0, 0,0.6);
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+
+}
+.hero-section .container{
+    text-align: center;
+    padding-top: 80px;
+    height: 100vh;
+    position: relative;
+}
+
+.hero-section .container p{
+    font-size: 20px;
+}
+.hero-section .container h1{
+    font-size: 1.5em;
+}
+.about-section {
+    background: url(image/IMG_2733.JPG) no-repeat center;
+    background-size: cover;
+    width: 100%;
+    height: 50vh;
+}
+
+.about-section .container {
+    height: 70%; /* Ajuste cette valeur selon tes besoins */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+.about-section .container h1{
+    margin: 0;
+    font-size: 1.5em;
+    font-weight: 800;
+    line-height: 1.6;
+    padding-top: 150px;
+}
+
+
+.service-section{
+    background: url(image/IMG_2733.JPG) no-repeat center;
+    background-size: cover;
+    width: 100%;
+    height: 50vh;
+}
+.service-section .container{
+    height: 70%; /* Ajuste cette valeur selon tes besoins */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+.service-section .container h1{
+    margin: 0;
+    font-size: 1.5em;
+    font-weight: 800;
+    line-height: 1.6;
+    padding-top: 70px;
+}
+.section-padding{
+    padding: 100px 0;
+    transition: 0.3s ease-in-out;
+}
+.section-padding h1,h2{
+    font-weight: 700;
+    color: var(--text-primary);
+}
+.section-padding .card{
+    margin-bottom: 20px;
+    transition: 0.3s ease-in-out;
+    background-color: #131e22;
+    color: var(--bg-white);
+    border: none;
+}
+.section-padding small{
+    font-size: 0.875rem; /* Adjust font size here */
+    line-height: 1.6;
+}
+.section-padding .card:hover{
+    transform: scale(1.1);
+    transition: 0.3s ease-in-out;
+}
+.section-padding .card-box {
+    margin-bottom: 20px;
+    transition: 0.3s ease-in-out;
+    background-color: #fff;
+    color: var(--text-primary);
+    border: none;
+    /* Ajustement du box-shadow pour un effet plus professionnel */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1), /* Ombre subtile */
+                0 6px 12px rgba(0, 0, 0, 0.1); /* Ombre secondaire pour profondeur */
+    border-radius: 10px; /* Coins légèrement arrondis pour un effet plus doux */
+}
+
+/* Effet d'ombre au survol pour plus d'interaction */
+.section-padding .card-box:hover {
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2), /* Ombre plus prononcée au survol */
+                0 12px 24px rgba(0, 0, 0, 0.2); /* Ombre secondaire au survol */
+}
+
+.section-padding small{
+    font-size: 0.875rem; /* Adjust font size here */
+    line-height: 1.6;
+}
+.section-padding h4{
+    color: var(--text-primary);
+}
+.section-padding .card:hover{
+    transform: scale(1.1);
+    transition: 0.3s ease-in-out;
+}
+footer {
+    flex-shrink: 0;
+  background-color: var(--bg-dark);
+    color: white;
+}
+
+
+/* Style pour le champ de newsletter rond */
+.newsletter-input {
+    border-radius: 50px;
+    padding: 10px 20px;
+    border: 1px solid #fff;
+    background-color: transparent;
+    color: white;
+}
+footer h5{
+    font-size: 1rem;
+}
+/* Style pour les icônes de réseaux sociaux */
+.social-icons a {
+    display: inline-block;
+    width: 40px;
+    height: 40px;
+    line-height: 40px;
+    margin: 0 5px;
+    text-align: center;
+    color: white;
+    background-color: var(--btn);
+    border-radius: 50%;
+    transition: background-color 0.3s, transform 0.3s;
+}
+
+.social-icons a:hover {
+    background-color: var(--btn);
+    color: var(--bg-white);
+    transform: scale(1.1);
+}
+
+.social-icons i {
+    font-size: 1.5rem;
+    vertical-align: middle;
+}
+footer i:hover{
+    color: var(--btn);
+    transition: 0.3s ease-in-out;
+    cursor: pointer;
+}
+.accordion-item {
+    border-radius: 50px; /* Arrondir les coins */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Ombre portée */
+    margin-bottom: 10px; /* Espacement entre les éléments d'accordéon */
+    transition: box-shadow 0.3s ease-in-out; /* Effet de transition pour l'ombre */
+}
+
+.accordion-button {
+    border-radius: 50px; /* Arrondir les coins du bouton */
+}
+
+.accordion-button:not(.collapsed) {
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.3); /* Ombre portée pour le bouton actif */
+}
+
+.accordion-body {
+    padding: 20px; /* Espacement interne pour le contenu */
+    text-align: justify;
+}
+.icon-bg {
+    display: inline-block;
+    width: 40px;
+    height: 40px;
+    line-height: 40px;
+    margin: 0 5px;
+    text-align: center;
+    color: white;
+    background-color: var(--btn);
+    border-radius: 50%;
+    transition: background-color 0.3s, transform 0.3s;
+}
+
+.icon-bg i {
+    font-size: 20px;
+    color: var(--bg-white); /* Change this color to your preference */
+    transition: color 0.3s; /* Animation de survol */
+}
+.icon-bg:hover {
+    background-color: var(--bg-dark); /* Change this color to your preference */
+    cursor: pointer;
+}
+
+.icon-bg:hover i {
+    color: #fff; /* Change this color to your preference */
+}
+#phone {
+    width: 600px;
+}
+/* Styles généraux */
+.img-info {
+    width: 100%;
+    height: 300px;
+    object-fit: cover;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    cursor: pointer;
+}
+
+.card {
+    position: relative;
+    overflow: hidden;
+    border: 0;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    transition: box-shadow 0.3s ease;
+}
+
+.card:hover {
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.3);
+}
+
+.card:hover .img-info {
+    transform: scale(1.05);
+}
+
+.description-text {
+    font-size: 1rem;
+    color: #333;
+    line-height: 1.6;
+    text-align: justify;
+}
+
+.card-container {
+    margin-bottom: 1.5rem;
+}
+.form-control {
+    border-radius: 20px;
+    padding: 0.75rem 1.25rem;
+    font-size: 0.9rem;
+}
+/* Pour les écrans larges */
+
+@media (max-width:732px) {
+    .hero-section .container p{
+        font-size: 16px;
+    }
+    .hero-section .container h1{
+        font-size: 1.3em;
+    }
+    .section-padding p{
+        text-align: justify;
+        line-height: 1.6;
+    }
+    .submit_btn{
+        background-color: var(--btn);
+        color: var(--bg-white);
+        font-size: 14px;
+        padding: 15px 25px;
+        text-decoration: none;
+        border: none;
+        cursor: pointer;
+        transition: 0.3s ease-in-out;
+        width: 100%;
+    }
+    #phone {
+        width: 100%; /* Champ de saisie 100% de la largeur pour les écrans plus petits */
+    }
+    .about-section .container h1{
+        margin: 0;
+        font-size: 1.5em;
+        font-weight: 800;
+        line-height: 1.6;
+        padding-top: 200px;
+    }
+    .description {
+        font-size: 0.9rem;
+        color: #555;
+        margin-top: 12px;
+        text-align: justify;
+    }
+    
+    
+    
+}
