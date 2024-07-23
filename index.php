@@ -1,3 +1,5 @@
+
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -20,6 +22,7 @@
     
 </head>
 <body>
+
 
 <?php include_once("navbar.php");?>
 
@@ -149,13 +152,13 @@
                     <div class="row">
                    <div class="col-md-6 col-sm-12">
                    <small>Nom & Prénom <span class="text-danger">*</span></small>
-                   <input type="text" name="nom" class="shadow-none form-control py-2" required>
+                   <input type="text" name="nom" class="shadow-none form-control py-3" required>
                  
                    </div>
 
                    <div class="col-md-6 col-sm-12">
                    <small>Adresse <span class="text-danger">*</span></small>
-                   <input type="text" name="adresse" class="shadow-none form-control py-2" required>
+                   <input type="text" name="adresse" class="shadow-none form-control py-3" required>
                   
                    </div>
                     </div>
@@ -163,17 +166,17 @@
                 </div>
                 <div class="mb-4">
                     <small>Email <span class="text-danger">*</span></small>
-                    <input type="email"  name="email" class="shadow-none form-control py-2" required>
+                    <input type="email"  name="email" class="shadow-none form-control py-3" required>
                    
                 </div>
                 <div class="mb-4">
                     <small>Numéro de téléphone <span class="text-danger">*</span></small>
-                    <input type="tel" name="tel" id="phone" class="shadow-none form-control py-2" required>
+                    <input type="tel" name="tel" id="phone" class="shadow-none form-control py-3" required>
                     
                 </div>
                 <div class="mb-4">
                     <small>Message <span class="text-danger">*</span></small>
-                    <textarea name="message" style="height:110px;" id="" class="form-control shadow-none py-2" required>
+                    <textarea name="message" style="height:110px;" id="" class="form-control shadow-none" required>
 
                     </textarea>
                     
@@ -189,6 +192,8 @@
  
 
 <?php include("footer.php");?>
+
+<script src="script.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/intl-tel-input/17.0.13/js/intlTelInput.min.js"></script>
     <script>
         const phoneInputField = document.querySelector("#phone");

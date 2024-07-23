@@ -8,21 +8,22 @@
                 et des aventures inoubliables,
                 à travers le monde.
                 </small>
+                
             </div>
 
             <div class="col-md-3 col-lg-3 col-xl-3 mx-auto mt-3">
                 <h5 class="text-uppercase mb-4 font-weight-bold">Liens Rapides</h5>
                 <p>
-                    <a href="#" class="text-decoration-none text-white active"><i class="fa fa-chevron-right me-2" aria-hidden="true"></i> Accueil</a>
+                    <a href="index.php" class="text-decoration-none text-white active"><i class="fa fa-chevron-right me-2" aria-hidden="true"></i> Accueil</a>
                 </p>
                 <p>
-                    <a href="#" class="text-decoration-none text-white"><i class="fa fa-chevron-right me-2" aria-hidden="true"></i> À propos</a>
+                    <a href="about.php" class="text-decoration-none text-white"><i class="fa fa-chevron-right me-2" aria-hidden="true"></i> À propos</a>
                 </p>
                 <p>
-                    <a href="#" class="text-decoration-none text-white"><i class="fa fa-chevron-right me-2" aria-hidden="true"></i> Services</a>
+                    <a href="#" class="text-decoration-none text-white"><i class="fa fa-chevron-right me-2" aria-hidden="true"></i> Nos Services</a>
                 </p>
                 <p>
-                    <a href="#" class="text-decoration-none text-white"><i class="fa fa-chevron-right me-2" aria-hidden="true"></i> Contact</a>
+                    <a href="contact.php" class="text-decoration-none text-white"><i class="fa fa-chevron-right me-2" aria-hidden="true"></i> Contact</a>
                 </p>
             </div>
 

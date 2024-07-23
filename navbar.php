@@ -30,9 +30,8 @@
           <li class="nav-item">
             <a class="nav-link mx-lg-2" href="actualites.php">Actualités</a>
           </li>
-          <li class="nav-item">
-            <a class="nav-link mx-lg-2" href="offres.php">Offres</a>
-          </li>      
+           
+               
             </ul>
           </li>
         </ul>
