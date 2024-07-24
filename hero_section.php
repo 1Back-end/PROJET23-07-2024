@@ -3,7 +3,7 @@
    <div class="mb-3">
    <h1 class="animate__animated animate__fadeInUp text-uppercase fw-bold">Bienvenue sur World Travel Company</h1>
    </div>
-   <div class="mb-3">
+   <div class="mb-5">
    <p class="animate__animated animate__fadeInUp">
     Chez <b>World Travel Company</b>, nous réalisons vos rêves d'évasion. <br>
      Découvrez des destinations exotiques et vivez des expériences mémorables. <br>
