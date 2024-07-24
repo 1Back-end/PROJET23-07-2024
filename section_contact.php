@@ -23,8 +23,19 @@
                 </div>
             </div>
         </div>
-
+         
         <div class="col-md-6 col-sm-12 mb-3">
+        <?php include_once ("send_email.php");?>
+                <?php if (!empty($succes)) : ?>
+                    <div class="alert alert-success text-center" role="alert">
+                        <?= $succes ?>
+                    </div>
+                <?php endif; ?>
+                <?php if (!empty($erreur)) : ?>
+                    <div class="alert alert-danger text-center" role="alert">
+                        <?= $erreur ?>
+                    </div>
+                <?php endif; ?>
             <div class="card-box p-3 h-100 contact-form">
             <form action="" id="contactForm" method="post">
                 <div class="mb-3">

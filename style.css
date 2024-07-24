@@ -537,7 +537,10 @@ textarea:focus {
     .description-text{
         text-align: justify;
     }
-}
-@media screen {
-    
+    h1,h2,h3{
+        font-size: 1.3rem;
+    }
+    h4,h5,h6{
+        font-size: 1.2rem;
+    }
 }

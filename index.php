@@ -118,7 +118,7 @@
         </div>
     </div>
 
-    <div class="container section-padding mt-3 p-3">
+    <div class="container section-padding mt-5 p-3">
     <div class="row text-center mb-4">
             <div class="col-md-12 col-sm-12">
                 <h2 class="animate__animated animate__fadeIn">Comment travaillons nous ?</h2>
