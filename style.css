@@ -437,6 +437,11 @@ textarea:focus {
     box-shadow: none !important;
 }
 
+.card-img-top {
+    height: 150px; /* Ajuster la hauteur de l'image pour ne pas être trop grande */
+    object-fit: cover; /* Conserver les proportions de l'image et remplir l'espace */
+    border-bottom: 1px solid #ddd; /* Bordure sous l'image pour séparer du contenu de la carte */
+}
 
 /* Pour les écrans larges */
 
