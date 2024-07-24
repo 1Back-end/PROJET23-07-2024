@@ -40,7 +40,7 @@
             <div class="text-content">
                 <h4 class="fw-bold mb-3">Opportunités de carrière inégalées</h4>
                 <p class="description-text">
-                Avec World Travel Company, accédez à des opportunités de carrière uniques aux États-Unis. Que vous soyez un jeune diplômé ou un professionnel expérimenté, nous vous aidons à trouver le poste idéal dans votre domaine. Profitez de notre réseau de partenaires et de notre expertise pour naviguer dans le marché du travail américain et atteindre vos objectifs professionnels. Transformez vos aspirations en réalité et bâtissez une carrière fructueuse sur le sol américain.
+                Avec <b>World Travel Company</b>, accédez à des opportunités de carrière uniques aux États-Unis. Que vous soyez un jeune diplômé ou un professionnel expérimenté, nous vous aidons à trouver le poste idéal dans votre domaine. Profitez de notre réseau de partenaires et de notre expertise pour naviguer dans le marché du travail américain et atteindre vos objectifs professionnels. Transformez vos aspirations en réalité et bâtissez une carrière fructueuse sur le sol américain.
                 </p>
                 <a href="contact.php" class="submit_btn mb-3">Nous Contactez</a>
             </div>
@@ -55,7 +55,7 @@
             <div class="text-content">
                 <h4 class="fw-bold mb-3">Accompagnement personnalisé pour votre projet professionnel</h4>
                 <p class="description-text">
-                Nous comprenons que travailler aux États-Unis peut être un défi, c'est pourquoi World Travel Company vous offre un accompagnement personnalisé à chaque étape. De la préparation de votre visa à l'intégration dans votre nouvel environnement de travail, nous vous guidons tout au long du processus. Nos conseillers sont là pour vous fournir des conseils pratiques et des ressources essentielles afin de garantir une transition en douceur et une expérience professionnelle enrichissante.
+                Nous comprenons que travailler aux États-Unis peut être un défi, c'est pourquoi <b>World Travel Company</b> vous offre un accompagnement personnalisé à chaque étape. De la préparation de votre visa à l'intégration dans votre nouvel environnement de travail, nous vous guidons tout au long du processus. Nos conseillers sont là pour vous fournir des conseils pratiques et des ressources essentielles afin de garantir une transition en douceur et une expérience professionnelle enrichissante.
                 </p>
                 <a href="contact.php" class="submit_btn mb-3">Nous Contactez</a><br><br>
             </div>

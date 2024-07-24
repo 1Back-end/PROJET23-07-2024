@@ -40,7 +40,7 @@
             <div class="text-content">
                 <h4 class="fw-bold mb-3">Des Programmes Académiques de Classe Mondiale</h4>
                 <p class="description-text">
-                Avec World Travel Company, explorez les meilleures opportunités éducatives aux États-Unis. Accédez à des universités prestigieuses et des programmes innovants dans divers domaines. Nous vous aidons à choisir l’établissement qui correspond à vos aspirations académiques et professionnelles, et à naviguer à travers les exigences d'admission. Préparez-vous à une expérience éducative enrichissante et à un avenir prometteur grâce à notre expertise.
+                Avec <b>World Travel Company</b>, explorez les meilleures opportunités éducatives aux États-Unis. Accédez à des universités prestigieuses et des programmes innovants dans divers domaines. Nous vous aidons à choisir l’établissement qui correspond à vos aspirations académiques et professionnelles, et à naviguer à travers les exigences d'admission. Préparez-vous à une expérience éducative enrichissante et à un avenir prometteur grâce à notre expertise.
                 </p>
                 <a href="contact.php" class="submit_btn mb-3">Nous Contactez</a>
             </div>
@@ -55,7 +55,7 @@
             <div class="text-content">
                 <h4 class="fw-bold mb-3">Support Complet pour une Réussite Académique</h4>
                 <p class="description-text">
-                World Travel Company vous accompagne tout au long de votre parcours académique aux États-Unis. De la demande de visa étudiant à l'adaptation à la vie universitaire, nous vous offrons un soutien personnalisé pour chaque étape. Profitez de conseils pratiques, d'une assistance dans la gestion de votre quotidien et d'informations sur la culture locale pour assurer une transition réussie et une expérience universitaire épanouissante.
+                <b>World Travel Company</b> vous accompagne tout au long de votre parcours académique aux États-Unis. De la demande de visa étudiant à l'adaptation à la vie universitaire, nous vous offrons un soutien personnalisé pour chaque étape. Profitez de conseils pratiques, d'une assistance dans la gestion de votre quotidien et d'informations sur la culture locale pour assurer une transition réussie et une expérience universitaire épanouissante.
                 </p>
                 <a href="contact.php" class="submit_btn mb-3">Nous Contactez</a><br><br>
             </div>

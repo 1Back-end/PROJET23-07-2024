@@ -41,8 +41,8 @@
                         <input type="tel" name="tel" id="phone" class="shadow-none form-control py-3" required>
                     </div>
                     <div class="mb-2">
-                        <small>Message <span class="text-danger">*</span></small>
-                        <textarea name="message" style="height:110px;" class="form-control shadow-none py-3" required></textarea>
+                        <small>Message <span class="text-danger">*</span></small><br>
+                        <textarea name="message" style="height:110px;" class="shadow-none" required ></textarea>
                     </div>
                     <div class="mb-2">
                         <button type="submit" name="submit" class="submit_btn">Soumettre maintenant</button>

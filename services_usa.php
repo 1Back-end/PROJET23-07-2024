@@ -52,7 +52,7 @@
                     </div>
                     <div class="mb-3">
                         <p class="small text-muted">
-                        Découvrez l'Amérique avec World Travel Company : des gratte-ciels de New York aux plages de Californie, vivez des expériences uniques et mémorables. Embarquez pour un voyage sur mesure à travers les États-Unis et transformez vos rêves en réalité !
+                        Découvrez l'Amérique avec <b>World Travel Company</b> : des gratte-ciels de New York aux plages de Californie, vivez des expériences uniques et mémorables. Embarquez pour un voyage sur mesure à travers les États-Unis et transformez vos rêves en réalité !
                         </p>
                     </div>
                     <div class="mb-3">
@@ -71,7 +71,7 @@
                     </div>
                     <div class="mb-3">
                         <p class="small text-muted">
-                        Réalisez vos rêves professionnels aux États-Unis avec World Travel Company : bénéficiez de notre expertise pour des opportunités de carrière uniques et un accompagnement personnalisé. Transformez votre ambition en succès sur le sol américain !
+                        Réalisez vos rêves professionnels aux États-Unis avec <b>World Travel Company</b> : bénéficiez de notre expertise pour des opportunités de carrière uniques et un accompagnement personnalisé. Transformez votre ambition en succès sur le sol américain !
                         </p>
                     </div>
                     <div class="mb-3">
@@ -90,7 +90,7 @@
                     </div>
                     <div class="mb-3">
                         <p class="small text-muted">
-                        Explorez les meilleures opportunités éducatives aux États-Unis avec World Travel Company : bénéficiez de notre expertise pour un accompagnement personnalisé vers une carrière internationale réussie. Transformez votre avenir académique avec nous !
+                        Explorez les meilleures opportunités éducatives aux États-Unis avec <b>World Travel Company</b> : bénéficiez de notre expertise pour un accompagnement personnalisé vers une carrière internationale réussie. Transformez votre avenir académique avec nous !
                         </p>
                     </div>
                     <div class="mb-3">

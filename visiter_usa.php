@@ -40,7 +40,7 @@
             <div class="text-content">
                 <h4 class="fw-bold mb-3">Explorez les grandes villes Américaines</h4>
                 <p class="description-text">
-                Découvrez la diversité et l'énergie des grandes villes américaines avec World Travel Company. De la vibrante New York, capitale mondiale de la culture et des affaires, aux plages ensoleillées de Los Angeles, chaque ville offre des expériences uniques. Promenez-vous sur les célèbres avenues, visitez des musées de renommée mondiale, et dégustez une cuisine variée. Vivez l'effervescence urbaine tout en découvrant des trésors cachés.
+                Découvrez la diversité et l'énergie des grandes villes américaines avec <b>World Travel Company</b>. De la vibrante New York, capitale mondiale de la culture et des affaires, aux plages ensoleillées de Los Angeles, chaque ville offre des expériences uniques. Promenez-vous sur les célèbres avenues, visitez des musées de renommée mondiale, et dégustez une cuisine variée. Vivez l'effervescence urbaine tout en découvrant des trésors cachés.
                 </p>
                 <a href="contact.php" class="submit_btn mb-3">Nous Contactez</a>
             </div>

@@ -23,7 +23,7 @@
 <section class="about-section">
  <div class="container d-flex align-items-center justify-content-center fs-1 text-white flex-column">
    <div class="mb-3">
-   <h1 class="animate__animated animate__fadeInUp text-uppercase font-weight-bold display-3">Travaillez canada</h1>
+   <h1 class="animate__animated animate__fadeInUp text-uppercase font-weight-bold display-3">Travaillez au canada</h1>
    </div>
  </div>
  </div>
@@ -38,7 +38,7 @@
         <!-- Text Section -->
         <div class="col-md-6 col-sm-12 mb-3 text-wrapper">
             <div class="text-content">
-                <h4 class="fw-bold mb-3">Découvrez les opportunités professionnelles exceptionnelles au Canada grâce à notre expertise.</h4>
+                <h4 class="fw-bold mb-3">Découvrez les opportunités au Canada grâce à notre expertise.</h4>
                 <p class="description-text">
                 Explorez les opportunités professionnelles au Canada et transformez votre carrière avec notre soutien expert. Nous vous guidons à chaque étape pour concrétiser vos ambitions dans un environnement riche en possibilités...
                 </p>
@@ -53,7 +53,7 @@
         <!-- Text Section -->
         <div class="col-md-6 col-sm-12 mb-3 text-wrapper">
             <div class="text-content">
-                <h4 class="fw-bold mb-3">Ouvrez les Portes d'une Carrière Réussie au Canada</h4>
+                <h4 class="fw-bold mb-3">Ouvrez les portes d'une carrière réussie au Canada</h4>
                 <p class="description-text">
                 Bénéficiez de notre expertise pour naviguer dans le marché du travail canadien. Nous vous aidons à trouver les meilleures opportunités et à réussir votre parcours professionnel dans un environnement dynamique et stimulant.
                 </p>

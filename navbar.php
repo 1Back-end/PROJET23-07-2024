@@ -1,6 +1,6 @@
 <nav class="navbar navbar-expand-lg fixed-top">
   <div class="container-fluid">
-    <a class="navbar-brand me-auto text-uppercase" href="#"><i class="fa fa-plane fa-2x" aria-hidden="true"></i></a>
+    <a class="navbar-brand me-auto text-uppercase" href="index.php"><i class="fa fa-plane fa-2x" aria-hidden="true"></i></a>
     
     <div class="offcanvas offcanvas-end" tabindex="-1" id="offcanvasNavbar" aria-labelledby="offcanvasNavbarLabel">
       <div class="offcanvas-header">
@@ -10,14 +10,14 @@
       <div class="offcanvas-body">
         <ul class="navbar-nav justify-content-center flex-grow-1 pe-3">
           <li class="nav-item">
-            <a class="nav-link mx-lg-2 active" aria-current="page" href="index.php">Acceuil</a>
+            <a class="nav-link mx-lg-2" aria-current="page" href="index.php">Acceuil</a>
           </li>
           <li class="nav-item">
             <a class="nav-link mx-lg-2" href="about.php">À propos</a>
           </li>
           <li class="nav-item dropdown">
           <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-            Services
+            Nos destinations
           </a>
           <ul class="dropdown-menu border-0">
             <li><a class="dropdown-item" href="services_canada.php">Canada</a></li>

@@ -38,7 +38,7 @@
         <!-- Text Section -->
         <div class="col-md-6 col-sm-12 mb-3 text-wrapper">
             <div class="text-content">
-                <h4 class="fw-bold mb-3">Étudiez au Canada : Une Opportunité académique inégalée et un avenir prometteur.</h4>
+                <h4 class="fw-bold mb-3">Étudiez au Canada : Une Opportunité académique inégalée.</h4>
                 <p class="description-text">
                 Découvrez l'excellence académique et la diversité culturelle du Canada avec nos services d'accompagnement spécialisés pour étudiants internationaux. Le Canada est renommé pour ses établissements d'enseignement de classe mondiale, ses environnements sécurisés et inclusifs, et ses opportunités de recherche innovantes. Nous vous guidons à chaque étape de votre parcours éducatif, de la sélection des programmes à la demande de visa, en passant par l'intégration dans votre nouvelle communauté. 
                 </p>
@@ -53,7 +53,7 @@
         <!-- Text Section -->
         <div class="col-md-6 col-sm-12 mb-3 text-wrapper">
             <div class="text-content">
-                <h4 class="fw-bold mb-3">Études au Canada : Votre passerelle vers un futur rayonnant et multiculturel</h4>
+                <h4 class="fw-bold mb-3">Études au Canada : Votre passerelle vers un futur rayonnant</h4>
                 <p class="description-text">
                 Embarquez pour une aventure académique inoubliable au Canada, un pays où l'éducation de haut niveau rencontre une richesse culturelle exceptionnelle. Nos services personnalisés vous offrent un accompagnement complet pour naviguer dans le système éducatif canadien, depuis le choix de l’établissement jusqu’à l’obtention de votre visa étudiant. Explorez des programmes variés dans des universités réputées mondialement, tout en profitant d'un environnement multiculturel accueillant.
                 </p>

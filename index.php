@@ -129,8 +129,8 @@
       
     <div class="row">
         <div class="col-md-6 col-sm-12 mb-3">
-          <div class="card-box shadow-sm h-100 mb-3 p-3">
-          <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d254715.1500944226!2d9.576991603177493!3d4.035887107793933!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1061128be2e1fe6d%3A0x92daa1444781c48b!2sDouala%2C%20Cameroun!5e0!3m2!1sfr!2sfr!4v1721645464951!5m2!1sfr!2sfr" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+          <div class="h-100 mb-3">
+          <img src="image/school1.jpg" alt="" class="img-fluid">
           </div>
         </div>
 
@@ -146,9 +146,9 @@
             <?= $erreur ?>
         </div>
         <?php endif; ?>
-          <div class="card-box shadow-sm h-100 p-3">
+          <div class="card-box shadow-sm p-3">
             <form action="" id="contactForm" method="post">
-                <div class="mb-4">
+                <div class="mb-3">
                     <div class="row">
                    <div class="col-md-6 col-sm-12">
                    <small>Nom & Prénom <span class="text-danger">*</span></small>
@@ -164,19 +164,25 @@
                     </div>
                     
                 </div>
-                <div class="mb-4">
-                    <small>Email <span class="text-danger">*</span></small>
-                    <input type="email"  name="email" class="shadow-none form-control py-3" required>
-                   
-                </div>
-                <div class="mb-4">
-                    <small>Numéro de téléphone <span class="text-danger">*</span></small>
+
+                <div class="mb-3">
+                    <div class="row">
+                   <div class="col-md-6 col-sm-12">
+                   <small>Email <span class="text-danger">*</span></small>
+                   <input type="email" name="email" class="shadow-none form-control py-3" required>
+                 
+                   </div>
+
+                   <div class="col-md-6 col-sm-12">
+                   <small>Numéro de téléphone <span class="text-danger">*</span></small>
                     <input type="tel" name="tel" id="phone" class="shadow-none form-control py-3" required>
                     
+                   </div>
+                    </div>
                 </div>
                 <div class="mb-4">
                     <small>Message <span class="text-danger">*</span></small>
-                    <textarea name="message" style="height:110px;" id="" class="form-control shadow-none" required>
+                    <textarea name="message" style="height:110px;" id="" class="shadow-none" required>
 
                     </textarea>
                     
