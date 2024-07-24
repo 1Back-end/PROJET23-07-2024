@@ -26,28 +26,50 @@
 
         <div class="col-md-6 col-sm-12 mb-3">
             <div class="card-box p-3 h-100 contact-form">
-                <form action="" method="post">
-                    <div class="mb-2">
-                        <small>Nom & Prénom <span class="text-danger">*</span></small>
-                        <input type="text" name="name" class="shadow-none form-control py-3" required>
-                    </div>
+            <form action="" id="contactForm" method="post">
+                <div class="mb-3">
+                    <div class="row">
+                   <div class="col-md-6 col-sm-12">
+                   <small>Nom & Prénom <span class="text-danger">*</span></small>
+                   <input type="text" name="nom" class="shadow-none form-control py-3" required>
+                 
+                   </div>
 
-                    <div class="mb-2">
-                        <small>Email <span class="text-danger">*</span></small>
-                        <input type="email" name="email" class="shadow-none form-control py-3" required>
+                   <div class="col-md-6 col-sm-12">
+                   <small>Adresse <span class="text-danger">*</span></small>
+                   <input type="text" name="adresse" class="shadow-none form-control py-3" required>
+                  
+                   </div>
                     </div>
-                    <div class="mb-2">
-                        <small>Numéro de téléphone <span class="text-danger">*</span></small><br>
-                        <input type="tel" name="tel" id="phone" class="shadow-none form-control py-3" required>
+                    
+                </div>
+
+                <div class="mb-3">
+                    <div class="row">
+                   <div class="col-md-6 col-sm-12">
+                   <small>Email <span class="text-danger">*</span></small>
+                   <input type="email" name="email" class="shadow-none form-control py-3" required>
+                 
+                   </div>
+
+                   <div class="col-md-6 col-sm-12">
+                   <small>Numéro de téléphone <span class="text-danger">*</span></small><br>
+                    <input type="tel" name="tel" id="phone" class="shadow-none form-control py-3" required>
+                    
+                   </div>
                     </div>
-                    <div class="mb-2">
-                        <small>Message <span class="text-danger">*</span></small><br>
-                        <textarea name="message" style="height:110px;" class="shadow-none" required ></textarea>
-                    </div>
-                    <div class="mb-2">
-                        <button type="submit" name="submit" class="submit_btn">Soumettre maintenant</button>
-                    </div>
-                </form>
+                </div>
+                <div class="mb-4">
+                    <small>Message <span class="text-danger">*</span></small>
+                    <textarea name="message" style="height:110px;" id="" class="shadow-none" required>
+
+                    </textarea>
+                    
+                </div>
+                <div class="mb-4">
+                    <button type="submit" name="submit" class="submit_btn">Soumettre maintenant</button>
+                </div>
+            </form>
             </div>
         </div>
     </div>

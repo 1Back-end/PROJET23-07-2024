@@ -354,7 +354,7 @@ footer i:hover{
     color: #fff; /* Change this color to your preference */
 }
 #phone {
-    width: 250px;
+    width: 290px;
 }
 /* Styles généraux */
 .img-info {
@@ -417,6 +417,26 @@ textarea:focus {
     border-color: #007bff; /* Couleur de bordure bleue lors du focus */
     outline: none; /* Supprime le contour par défaut */
 }
+.image-container {
+    position: relative;
+    overflow: hidden;
+    border-radius: 10px;
+}
+
+.custom-img {
+    width: 100%;
+    height: auto;
+    transition: transform 0.3s ease;
+}
+
+.custom-img:hover {
+    transform: scale(1.05);
+}
+
+.shadow-none {
+    box-shadow: none !important;
+}
+
 
 /* Pour les écrans larges */
 
@@ -455,8 +475,37 @@ textarea:focus {
         font-size: 0.9rem;
         color: #555;
         margin-top: 12px;
+    }   
+}
+/* Tablettes en paysage (de 769px à 1024px) */
+@media (min-width: 769px) and (max-width: 1024px) {
+    .container {
+        padding-left: 15px; /* Ajustez la marge pour une meilleure utilisation de l'espace */
+        padding-right: 15px;
     }
     
-    
-    
+    .row {
+        flex-direction: column; /* Dispose les éléments en colonne */
+        align-items: center;    /* Centre les éléments horizontalement */
+        width: 100%;            /* Assure que la largeur est de 100% */
+    }
+
+    .col-md-6 {
+        width: 100%;            /* Les colonnes prennent toute la largeur */
+        margin-bottom: 20px;    /* Ajoute de l'espace entre les colonnes */
+    }
+    .col-md-3 {
+        width: 100%;            /* Les colonnes prennent toute la largeur */
+        margin-bottom: 20px;    /* Ajoute de l'espace entre les colonnes */
+    }
+    .col-md-4 {
+        width: 100%;            /* Les colonnes prennent toute la largeur */
+        margin-bottom: 20px;    /* Ajoute de l'espace entre les colonnes */
+    }
+    .form-control{
+        width: 100%; /* Champ de saisie 100% de la largeur pour le*/
+    }
+    #phone{
+        width: 610px;
+    }
 }
