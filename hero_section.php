@@ -11,8 +11,8 @@
     </p>
    </div>
    <div class="mb-3">
-   <a href="services.php" class="btn-services1 animate__animated animate__fadeInUp py-3">Nos Destinations</a>
-   <a href="services.php" class="btn-services1 animate__animated animate__fadeInUp py-3">Contactez Nous</a>
+   <a href="about.php" class="btn-services1 animate__animated animate__fadeInUp py-3">Nos Destinations</a>
+   <a href="contact.php" class="btn-services1 animate__animated animate__fadeInUp py-3">Contactez Nous</a>
    </div>
  </div>
  </div>

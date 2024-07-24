@@ -20,7 +20,7 @@
                     <a href="about.php" class="text-decoration-none text-white"><i class="fa fa-chevron-right me-2" aria-hidden="true"></i> À propos</a>
                 </p>
                 <p>
-                    <a href="#" class="text-decoration-none text-white"><i class="fa fa-chevron-right me-2" aria-hidden="true"></i> Nos Services</a>
+                    <a href="#" class="text-decoration-none text-white"><i class="fa fa-chevron-right me-2" aria-hidden="true"></i> Nos destinations</a>
                 </p>
                 <p>
                     <a href="contact.php" class="text-decoration-none text-white"><i class="fa fa-chevron-right me-2" aria-hidden="true"></i> Contact</a>

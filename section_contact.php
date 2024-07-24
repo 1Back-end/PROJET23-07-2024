@@ -10,7 +10,7 @@
         <div class="col-md-6 col-sm-12 mb-3">
             <div class="mb-3 p-5 h-100 card-box contact-info">
                 <div class="mb-5 align-items-center">
-                    <p><span class="icon-bg"><i class="fa fa-envelope" aria-hidden="true"></i></span> exemple@gmail.com</p>
+                    <p><span class="icon-bg"><i class="fa fa-envelope" aria-hidden="true"></i></span> worldtravelcompany@gmail.com</p>
                 </div>
                 <div class="mb-5 align-items-center">
                     <p><span class="icon-bg"><i class="fa fa-map-marker" aria-hidden="true"></i></span> Douala, Cameroun</p>

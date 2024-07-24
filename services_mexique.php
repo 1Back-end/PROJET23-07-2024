@@ -48,7 +48,7 @@
                     <span class="icon-bg"><i class="fas fa-cogs"></i></span>
                     </div>
                     <div class="mb-3">
-                        <h5 class="text-uppercase  fw-bold">Visiter aux Mexique</h5>
+                        <h5 class="text-uppercase  fw-bold">Visitez aux Mexique</h5>
                     </div>
                     <div class="mb-3">
                         <p class="small text-muted">
@@ -56,7 +56,7 @@
                         </p>
                     </div>
                     <div class="mb-3">
-                    <a href="page_details_1.php" class="btn-services animate__animated animate__fadeInUp">Plus d'infos</a>
+                    <a href="visiter_mexique.php" class="btn-services animate__animated animate__fadeInUp">Plus d'infos</a>
                     </div>
                 </div>
             </div>
@@ -67,7 +67,7 @@
                     <span class="icon-bg"><i class="fas fa-cogs"></i></span>
                     </div>
                     <div class="mb-3">
-                        <h5 class="text-uppercase  fw-bold">Travailler au Mexique</h5>
+                        <h5 class="text-uppercase  fw-bold">Travaillez au Mexique</h5>
                     </div>
                     <div class="mb-3">
                         <p class="small text-muted">
@@ -75,7 +75,7 @@
                         </p>
                     </div>
                     <div class="mb-3">
-                    <a href="page_details_2.php" class="btn-services animate__animated animate__fadeInUp">Plus d'infos</a>
+                    <a href="travailler_mexique.php" class="btn-services animate__animated animate__fadeInUp">Plus d'infos</a>
                     </div>
                 </div>
             </div>
@@ -86,7 +86,7 @@
                     <span class="icon-bg"><i class="fas fa-cogs"></i></span>
                     </div>
                     <div class="mb-3">
-                        <h5 class="text-uppercase fw-bold">Etudier au Mexique</h5>
+                        <h5 class="text-uppercase fw-bold">Etudiez au Mexique</h5>
                     </div>
                     <div class="mb-3">
                         <p class="small text-muted">
@@ -94,7 +94,7 @@
                         </p>
                     </div>
                     <div class="mb-3">
-                    <a href="page_details_3.php" class="btn-services animate__animated animate__fadeInUp">Plus d'infos</a>
+                    <a href="etudier_mexique.php" class="btn-services animate__animated animate__fadeInUp">Plus d'infos</a>
                     </div>
                 </div>
             </div>           

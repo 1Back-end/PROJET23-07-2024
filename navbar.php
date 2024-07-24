@@ -10,10 +10,10 @@
       <div class="offcanvas-body">
         <ul class="navbar-nav justify-content-center flex-grow-1 pe-3">
           <li class="nav-item">
-            <a class="nav-link mx-lg-2" aria-current="page" href="index.php">Acceuil</a>
+            <a class="nav-link mx-lg-3" aria-current="page" href="index.php">Acceuil</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link mx-lg-2" href="about.php">À propos</a>
+            <a class="nav-link mx-lg-3" href="about.php">À propos</a>
           </li>
           <li class="nav-item dropdown">
           <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
@@ -23,14 +23,8 @@
             <li><a class="dropdown-item" href="services_canada.php">Canada</a></li>
             <li><a class="dropdown-item" href="services_usa.php">USA</a></li>
             <li><a class="dropdown-item" href="services_mexique.php">Mexique</a></li>
-            <li><a class="dropdown-item" href="services_sheingein.php">Shanghai</a></li>
           </ul>
         </li>
-
-          <li class="nav-item">
-            <a class="nav-link mx-lg-2" href="actualites.php">Actualités</a>
-          </li>
-           
                
             </ul>
           </li>
@@ -44,3 +38,16 @@
     </button>
   </div>
 </nav>
+
+
+<script>
+        // JavaScript pour ajouter la classe 'scrolled' à la barre de navigation lorsqu'on fait défiler la page
+        document.addEventListener('scroll', function() {
+            var navbar = document.querySelector('.navbar');
+            if (window.scrollY > 50) { // Vous pouvez ajuster la valeur selon vos besoins
+                navbar.classList.add('scrolled');
+            } else {
+                navbar.classList.remove('scrolled');
+            }
+        });
+    </script>
