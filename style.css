@@ -55,6 +55,16 @@ body{
     transition: 0.3s ease-in-out;
     
 }
+.btn_info{
+    background-color: var(--btn);
+    color: var(--bg-white);
+    font-size: 14px;
+    padding: 15px 20px;
+    text-decoration: none;
+    border: none;
+    cursor: pointer;
+    transition: 0.3s ease-in-out;
+}
 .btn-services{
     background-color: var(--btn);
     color: var(--bg-white);
@@ -235,6 +245,10 @@ body{
 .section-padding h1,h2{
     font-weight: 700;
     color: var(--text-primary);
+}
+.section-padding h5{
+    transition: 0.3s ease-in-out;
+    font-size: 1rem;
 }
 .section-padding .card{
     margin-bottom: 20px;
@@ -502,6 +516,15 @@ textarea:focus {
     .description-text{
         text-align: justify;
     }
+    .img-about{
+        width: 100%;
+        height: auto;
+        margin-bottom: 20px;
+    }
+    .btn_info {
+        margin-bottom: 15px; /* Ajustez la marge si nécessaire */
+        width: 100%;
+     }
 }
 /* Tablettes en paysage (de 769px à 1024px) */
 @media (min-width: 768px) and (max-width: 1024px) {
@@ -542,5 +565,10 @@ textarea:focus {
     }
     h4,h5,h6{
         font-size: 1.2rem;
+    }
+    .img-about{
+        width: 100%;
+        height: auto;
+        margin-bottom: 20px;
     }
 }

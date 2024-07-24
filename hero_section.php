@@ -5,14 +5,13 @@
    </div>
    <div class="mb-5">
    <p class="animate__animated animate__fadeInUp">
-    Chez <b>World Travel Company</b>, nous réalisons vos rêves d'évasion. <br>
-     Découvrez des destinations exotiques et vivez des expériences mémorables. <br>
+    Chez <b>World Travel Company</b>, nous réalisons vos rêves d'évasion. Découvrez des destinations exotiques et vivez des expériences mémorables.
     Laissez-nous vous guider vers des aventures uniques et inoubliables à travers le monde.
     </p>
    </div>
    <div class="mb-3">
-   <a href="about.php" class="btn-services1 animate__animated animate__fadeInUp py-3">Nos Destinations</a>
-   <a href="contact.php" class="btn-services1 animate__animated animate__fadeInUp py-3">Contactez Nous</a>
+   <a href="about.php" class="btn_info mb-3 animate__animated animate__fadeInUp py-3">Nos Destinations</a>
+   <a href="contact.php" class="btn_info mb-3 animate__animated animate__fadeInUp py-3">Contactez Nous</a>
    </div>
  </div>
  </div>

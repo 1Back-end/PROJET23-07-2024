@@ -37,11 +37,11 @@
 <div class="container mt-5 section-padding p-3">
    <div class="row">
         <div class="col-md-6 col-sm-12 mt-md-3 mb-3">
-            <div class="mb-5">
+            <div class="mb-3">
                 <h1 class="animate__animated animate__fadeInUp section-title">Ouvrez la voie à vos rêves de voyage</h1>
             </div>
-            <div class="mb-5">
-                <p class="animate__animated animate__fadeInUp">
+            <div class="mb-3">
+                <p class="animate__animated animate__fadeInUp description-text">
                 Avec <b> World Travel Company</b>, plongez dans un univers de découvertes et d'aventures. Explorez des destinations exotiques et vivez des expériences uniques qui répondent à vos aspirations les plus profondes. Nous sommes spécialisés dans la création de voyages sur mesure, conçus pour refléter vos désirs et vos intérêts personnels. Nos experts passionnés vous guideront vers des aventures inoubliables et vous aideront à créer des souvenirs impérissables. Découvrez la magie de chaque destination grâce à notre savoir-faire et notre engagement à rendre chaque voyage exceptionnel.
                 </p>
             </div>
@@ -51,7 +51,7 @@
         </div>
         <div class="col-md-6 col-sm-12 mb-3">
             <!-- Ajoutez du contenu ou des éléments supplémentaires ici -->
-             <img src="image/IMG_2731.JPG" alt="" class="img-fluid">
+             <img src="image/IMG_2731.JPG" alt="" class="img-fluid img-about">
         </div>
     </div>  
 </div>
