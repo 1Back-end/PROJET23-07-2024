@@ -5,7 +5,7 @@
     <link rel="shortcut icon" href="image/logo.png" type="image/x-icon">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>
-    <?php $pageTitle  = 'À Propos';?>
+    <?php $pageTitle  = 'About';?>
     <?php include 'title.php';?>
     <?php echo $title; ?>-<?php echo $pageTitle ; ?>
     </title>
@@ -34,7 +34,7 @@
 <div class="container pb-5 mt-3 p-3">
         <div class="row text-center mb-4">
             <div class="col-md-12 col-sm-12">
-                <h2 class="animate__animated animate__fadeIn">Nos destinations</h2>
+                <h2 class="animate__animated animate__fadeIn">Our destinations</h2>
                 
             </div>
         </div>
@@ -45,8 +45,8 @@
                     <img src="https://upload.wikimedia.org/wikipedia/en/thumb/c/cf/Flag_of_Canada.svg/1200px-Flag_of_Canada.svg.png" class="card-img-top" alt="Drapeau du Canada">
                     <div class="card-body">
                         <h5 class="card-title">Canada</h5>
-                        <p class="text-muted">Explorez les vastes paysages et les villes dynamiques du Canada, de Vancouver à Toronto.</p>
-                        <a href="services_canada.php" class="btn-services animate__animated animate__fadeInUp">Plus d'infos</a>
+                        <p class="text-muted">Explore Canada's vast landscapes and vibrant cities, from Vancouver to Toronto.</p>
+                        <a href="services_canada.php" class="btn-services animate__animated animate__fadeInUp">More informations</a>
                     
                     </div>
                 </div>
@@ -57,8 +57,8 @@
                     <img src="https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/1200px-Flag_of_the_United_States.svg.png" class="card-img-top" alt="Drapeau des USA">
                     <div class="card-body">
                         <h5 class="card-title">USA</h5>
-                        <p class="text-muted">Découvrez les États-Unis avec ses merveilles naturelles et ses grandes villes comme New York et Los Angeles.</p>
-                        <a href="services_usa.php" class="btn-services animate__animated animate__fadeInUp">Plus d'infos</a>
+                        <p class="text-muted">Discover the United States with its natural wonders and big cities like New York and Los Angeles.</p>
+                        <a href="services_usa.php" class="btn-services animate__animated animate__fadeInUp">More informations</a>
                     
                     </div>
                 </div>
@@ -69,8 +69,8 @@
                     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/1200px-Flag_of_Mexico.svg.png" class="card-img-top" alt="Drapeau du Mexique">
                     <div class="card-body">
                         <h5 class="card-title">Mexique</h5>
-                        <p class="text-muted">Profitez des plages ensoleillées et des richesses culturelles du Mexique, de Cancún à Mexico.</p>
-                        <a href="services_mexique.php" class="btn-services animate__animated animate__fadeInUp">Plus d'infos</a>
+                        <p class="text-muted">Enjoy the sunny beaches and cultural riches of Mexico, from Cancun to Mexico City.</p>
+                        <a href="services_mexique.php" class="btn-services animate__animated animate__fadeInUp">More informations</a>
                     
                     </div>
                 </div>
@@ -82,8 +82,8 @@
 <div class="container section-padding mt-3 pb-5 p-3">
 <div class="row text-center mb-4">
             <div class="col-md-12 col-sm-12 ">
-                <h2 class="animate__animated animate__fadeIn">Nos valeurs</h2>
-                <p class="small text-center">Chez <b>World Travel Company</b>, nos valeurs fondamentales guident chaque aspect de notre travail, <br> nous permettant de fournir des services exceptionnels à nos clients.</p>
+                <h2 class="animate__animated animate__fadeIn">Our values</h2>
+                <p class="small text-center">At <b>World Travel Company</b>, our core values ​​guide every aspect of our work, <br> enabling us to provide exceptional services to our clients.</p>
             </div>
         </div>
 
@@ -96,11 +96,11 @@
                     <i class="fa fa-star fa-2x mb-3"></i>
                     </div>
                     <div class="mb-3">
-                        <h5 class="text-uppercase">Excellence</h5>
+                        <h5 class="text-uppercase">Excellency</h5>
                     </div>
                     <div>
                         <p class="small">
-                        Nous nous efforçons d'offrir des services de la plus haute qualité, dépassant les attentes de nos clients à chaque voyage.
+                        We strive to provide the highest quality services, exceeding our customers' expectations on every trip.
                         </p>
                     </div>
                 </div>

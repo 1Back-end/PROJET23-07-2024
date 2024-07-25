@@ -5,7 +5,7 @@
     <link rel="shortcut icon" href="../image/logo.png" type="image/x-icon">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>
-    <?php $pageTitle  = 'Services Canada';?>
+    <?php $pageTitle  = 'Services Du Canada';?>
     <?php include 'title.php';?>
     <?php echo $title; ?>-<?php echo $pageTitle ; ?>
     </title>
