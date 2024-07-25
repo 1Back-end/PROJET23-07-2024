@@ -400,6 +400,14 @@ footer i:hover{
 .img-info:hover{
     transition: 0.3s ease-in-out;
 }
+.img-contact{
+    width: 100%;
+    height: 460px;
+    object-fit: cover;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    cursor: pointer;
+
+}
 
 .card {
     position: relative;
@@ -442,6 +450,7 @@ textarea {
     box-shadow: none; /* Supprime l'ombre par défaut */
     resize: vertical; /* Permet uniquement la redimension verticale */
     transition: border-color 0.2s ease-in-out; /* Transition pour la couleur de bordure */
+    resize: none;
 }
 
 /* Style pour le focus de la zone de texte */

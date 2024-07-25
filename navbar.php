@@ -15,6 +15,9 @@
           <li class="nav-item">
             <a class="nav-link mx-lg-3" href="about.php">À propos</a>
           </li>
+          <li class="nav-item">
+            <a class="nav-link mx-lg-3" href="services.php">Nos services</a>
+          </li>
           <li class="nav-item dropdown">
           <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
             Nos destinations
@@ -40,14 +43,3 @@
 </nav>
 
 
-<script>
-        // JavaScript pour ajouter la classe 'scrolled' à la barre de navigation lorsqu'on fait défiler la page
-        document.addEventListener('scroll', function() {
-            var navbar = document.querySelector('.navbar');
-            if (window.scrollY > 50) { // Vous pouvez ajuster la valeur selon vos besoins
-                navbar.classList.add('scrolled');
-            } else {
-                navbar.classList.remove('scrolled');
-            }
-        });
-    </script>

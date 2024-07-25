@@ -40,7 +40,7 @@
         </div>
         <div class="row">
             <!-- Carte pour le Canada -->
-            <div class="col-md-4 col-sm-12 mb-3">
+            <div class="col-md-4 col-sm-12 mb-5">
                 <div class="card h-100 p-3 text-center">
                     <img src="https://upload.wikimedia.org/wikipedia/en/thumb/c/cf/Flag_of_Canada.svg/1200px-Flag_of_Canada.svg.png" class="card-img-top" alt="Drapeau du Canada">
                     <div class="card-body">
@@ -52,7 +52,7 @@
                 </div>
             </div>
             <!-- Carte pour les USA -->
-            <div class="col-md-4 col-sm-12 mb-3">
+            <div class="col-md-4 col-sm-12 mb-5">
                 <div class="card h-100 p-3 text-center">
                     <img src="https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/1200px-Flag_of_the_United_States.svg.png" class="card-img-top" alt="Drapeau des USA">
                     <div class="card-body">
@@ -64,7 +64,7 @@
                 </div>
             </div>
             <!-- Carte pour le Mexique -->
-            <div class="col-md-4 col-sm-12 mb-3">
+            <div class="col-md-4 col-sm-12 mb-5">
                 <div class="card h-100 p-3 text-center">
                     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/1200px-Flag_of_Mexico.svg.png" class="card-img-top" alt="Drapeau du Mexique">
                     <div class="card-body">

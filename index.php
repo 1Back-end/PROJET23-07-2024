@@ -205,9 +205,9 @@
         </div>
       
         <div class="row">
-            <div class="col-md-6 col-sm-12 mb-3 order-md-1 order-2">
+            <div class="col-md-6 col-sm-12 mb-3">
                 <div class="h-100 mb-3">
-                    <img src="image/school1.jpg" alt="" class="img-fluid w-100">
+                    <img src="image/school1.jpg" alt="" class="img-fluid img-contact w-100">
                 </div>
             </div>
 

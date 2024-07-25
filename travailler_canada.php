@@ -28,6 +28,7 @@
  </div>
  </div>
 </section>
+
 <div class="container section-padding mt-3 p-3 pb-5">
     <div class="row mb-5">
         <!-- Image Section -->
@@ -49,7 +50,6 @@
 
 
     <div class="row mb-5">
-       
         <!-- Text Section -->
         <div class="col-md-6 col-sm-12 mb-3 text-wrapper">
             <div class="text-content">
