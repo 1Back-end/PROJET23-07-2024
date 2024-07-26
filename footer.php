@@ -11,7 +11,7 @@
                 
                 <div class="mb-3">
                     <i class="fa fa-envelope me-3"></i>
-                    <span>info@immigrationcameroun.com</span>
+                    <span>travelcompany811@gmail.com</span>
                 </div>
                 <div class="mb-3">
                     <i class="fa fa-clock me-3"></i>

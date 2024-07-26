@@ -25,14 +25,14 @@ if (isset($_POST["submit"])) {
             $mail->isSMTP();
             $mail->Host = 'smtp.gmail.com'; // Remplacez par votre serveur SMTP
             $mail->SMTPAuth = true;
-            $mail->Username = 'laurentalphonsewilfried@gmail.com'; // Remplacez par votre adresse e-mail
-            $mail->Password = 'ztgs elyg jaxy emnx'; // Remplacez par votre mot de passe e-mail
+            $mail->Username = 'travelcompany811@gmail.com'; // Remplacez par votre adresse e-mail
+            $mail->Password = 'njwsnthquumpdnti'; // Remplacez par votre mot de passe e-mail
             $mail->SMTPSecure = PHPMailer::ENCRYPTION_STARTTLS;
             $mail->Port       = 587;
 
             // Destinataire
-            $mail->setFrom('laurentalphonsewilfried@gmail.com', 'Laurent Alphonse');
-            $mail->addAddress('laurentalphonsewilfried@gmail.com'); // Adresse e-mail de l'administrateur
+            $mail->setFrom('travelcompany811@gmail.com', 'World Travel Company');
+            $mail->addAddress('travelcompany811@gmail.com'); // Adresse e-mail de l'administrateur
 
             // Contenu de l'e-mail
             $mail->isHTML(true);
