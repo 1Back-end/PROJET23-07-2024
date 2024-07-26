@@ -1,6 +1,6 @@
 <nav class="navbar navbar-expand-lg fixed-top">
   <div class="container-fluid">
-    <a class="navbar-brand me-auto text-uppercase" href="index.php"><i class="fa fa-plane fa-2x" aria-hidden="true"></i></a>
+    <a class="navbar-brand me-auto text-uppercase" href="index.php"><img src="image/avion.png" alt=""></a>
     
     <div class="offcanvas offcanvas-end" tabindex="-1" id="offcanvasNavbar" aria-labelledby="offcanvasNavbarLabel">
       <div class="offcanvas-header">

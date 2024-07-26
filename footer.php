@@ -23,6 +23,7 @@
             <option value="" data-flag="flag-icon-fr">Français</option>
         </select>
         </div>
+        
         </div>
 
             <div class="col-md-3 col-lg-3 col-xl-3 mx-auto mt-3">
