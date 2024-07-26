@@ -14,9 +14,9 @@ if (isset($_POST["submit"])) {
 
     // Validation des champs
     if (empty($nom) || empty($adresse) || empty($email) || empty($tel) || empty($message)) {
-        $erreur = "Tous les champs sont requis. Veuillez remplir chaque champ du formulaire.";
+        $erreur = "All fields are required. Please fill out each field in the form.";
     } elseif (!filter_var($email, FILTER_VALIDATE_EMAIL)) {
-        $erreur = "L'adresse e-mail fournie semble invalide. Veuillez vérifier et réessayer.";
+        $erreur = "The provided email address seems invalid. Please check and try again.";
     } else {
         // Configuration de PHPMailer
         $mail = new PHPMailer(true);
@@ -36,7 +36,7 @@ if (isset($_POST["submit"])) {
 
             // Contenu de l'e-mail
             $mail->isHTML(true);
-            $mail->Subject = 'Nouveau Message de Contact';
+            $mail->Subject = 'New Contact Message';
             
             $mail->Body = '
             <html>
@@ -52,18 +52,18 @@ if (isset($_POST["submit"])) {
             <body>
                 <div class="container">
                     <div class="header">
-                        <h2>Nouveau Message de Contact</h2>
+                        <h2>New Contact Message</h2>
                     </div>
                     <div class="content">
-                        <p><strong>Nom :</strong> ' . htmlspecialchars($nom) . '</p>
-                        <p><strong>Adresse :</strong> ' . htmlspecialchars($adresse) . '</p>
-                        <p><strong>Email :</strong> ' . htmlspecialchars($email) . '</p>
-                        <p><strong>Téléphone :</strong> ' . htmlspecialchars($tel) . '</p>
-                        <p><strong>Message :</strong></p>
+                        <p><strong>Name:</strong> ' . htmlspecialchars($nom) . '</p>
+                        <p><strong>Address:</strong> ' . htmlspecialchars($adresse) . '</p>
+                        <p><strong>Email:</strong> ' . htmlspecialchars($email) . '</p>
+                        <p><strong>Phone:</strong> ' . htmlspecialchars($tel) . '</p>
+                        <p><strong>Message:</strong></p>
                         <p>' . nl2br(htmlspecialchars($message)) . '</p>
                     </div>
                     <div class="footer">
-                        <p>Ce message a été envoyé automatiquement. Veuillez ne pas répondre.</p>
+                        <p>This message was sent automatically. Please do not reply.</p>
                     </div>
                 </div>
             </body>
@@ -71,9 +71,9 @@ if (isset($_POST["submit"])) {
 
             // Envoi de l'e-mail
             $mail->send();
-            $succes = 'Votre message a été envoyé avec succès. Nous vous remercions pour votre prise de contact. Nous reviendrons vers vous dans les plus brefs délais.';
+            $succes = 'Your message has been sent successfully. Thank you for contacting us. We will get back to you as soon as possible.';
         } catch (Exception $e) {
-            echo "Le message n'a pas pu être envoyé. Erreur : {$mail->ErrorInfo}";
+            $erreur= "The message could not be sent. Error: {$mail->ErrorInfo}";
         }
     }
 }

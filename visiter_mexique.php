@@ -2,10 +2,10 @@
 <html lang="en">
 <head>
 <meta charset="UTF-8">
-    <link rel="shortcut icon" href="../image/logo.png" type="image/x-icon">
+    <link rel="shortcut icon" href="image/logo.png" type="image/x-icon">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>
-    <?php $pageTitle  = 'Visitez Le Mexique';?>
+    <?php $pageTitle  = 'Visit Mexico';?>
     <?php include 'title.php';?>
     <?php echo $title; ?>-<?php echo $pageTitle ; ?>
     </title>
@@ -23,7 +23,7 @@
 <section class="about-section">
  <div class="container d-flex align-items-center justify-content-center fs-1 text-white flex-column">
    <div class="mb-3">
-   <h1 class="animate__animated animate__fadeInUp text-uppercase font-weight-bold display-3">Visitez Le Mexique</h1>
+   <h1 class="animate__animated animate__fadeInUp text-uppercase font-weight-bold display-3">Visit Mexico</h1>
    </div>
  </div>
  </div>
@@ -38,11 +38,11 @@
         <!-- Text Section -->
         <div class="col-md-6 col-sm-12 mb-3 text-wrapper">
             <div class="text-content">
-                <h4 class="fw-bold mb-3">Découvrez les trésors culturels du Mexique</h4>
+                <h4 class="fw-bold mb-3">Discover the cultural treasures of Mexico.</h4>
                 <p class="description-text">
-                Plongez dans l'histoire et la richesse culturelle du Mexique en visitant ses sites archéologiques, musées et villes coloniales. Explorez les pyramides majestueuses de Teotihuacan, émerveillez-vous devant les fresques murales de Diego Rivera à Mexico, et promenez-vous dans les rues pavées de Guanajuato. Chaque destination offre une fenêtre sur le passé fascinant du Mexique, où les traditions ancestrales rencontrent l'art et l'architecture modernes.
+                Immerse yourself in the history and cultural richness of Mexico by visiting its archaeological sites, museums and colonial cities. Explore the majestic pyramids of Teotihuacan, marvel at the murals of Diego Rivera in Mexico City, and stroll the cobblestone streets of Guanajuato. Each destination offers a window into Mexico's fascinating past, where ancient traditions meet modern art and architecture.
                 </p>
-                <a href="contact.php" class="submit_btn mb-3">Nous Contactez</a>
+                <a href="contact.php" class="submit_btn mb-3">Contact us</a>
             </div>
         </div>
     </div>
@@ -53,11 +53,11 @@
         <!-- Text Section -->
         <div class="col-md-6 col-sm-12 mb-3 text-wrapper">
             <div class="text-content">
-                <h4 class="fw-bold mb-3">Évadez-vous dans les paradis naturels du Mexique</h4>
+                <h4 class="fw-bold mb-3">Escape to Mexico's natural paradises.</h4>
                 <p class="description-text">
-                Laissez-vous envoûter par les paysages naturels diversifiés du Mexique, allant des plages paradisiaques aux forêts tropicales luxuriantes. Détendez-vous sur les plages de sable blanc de Cancún, explorez les cénotes mystérieux de la péninsule du Yucatán, ou randonnez à travers les montagnes de la Sierra Madre. Que vous soyez amateur de farniente ou d'aventure, le Mexique offre des expériences inoubliables pour tous les goûts et toutes les envies.
+                Be enchanted by Mexico's diverse natural landscapes, from heavenly beaches to lush tropical forests. Relax on the white sand beaches of Cancun, explore the mysterious cenotes of the Yucatán Peninsula, or hike through the Sierra Madre Mountains. Whether you love relaxation or adventure, Mexico offers unforgettable experiences for all tastes and desires.
                 </p>
-                <a href="contact.php" class="submit_btn mb-3">Nous Contactez</a><br><br>
+                <a href="contact.php" class="submit_btn mb-3">Contact us</a><br><br>
             </div>
         </div>
 

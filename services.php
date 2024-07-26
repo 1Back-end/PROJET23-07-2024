@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <link rel="shortcut icon" href="../image/logo.png" type="image/x-icon">
+    <link rel="shortcut icon" href="image/logo.png" type="image/x-icon">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>
     <?php $pageTitle  = 'Services';?>
@@ -27,7 +27,7 @@
 <section class="service-section">
  <div class="container d-flex align-items-center justify-content-center fs-1 text-white flex-column">
    <div class="mb-3">
-   <h1 class="animate__animated animate__fadeInUp text-uppercase font-weight-bold display-3">Services</h1>
+   <h1 class="animate__animated animate__fadeInUp text-uppercase font-weight-bold display-3">Our services</h1>
    </div>
  </div>
  </div>
@@ -37,8 +37,8 @@
 <div class="container section-padding mt-3 pb-5 p-3">
 <div class="row text-center mb-4">
             <div class="col-md-12 col-sm-12 ">
-                <h2 class="animate__animated animate__fadeIn">Nos Services</h2>
-                <p class="small text-center">Découvrez l’éventail de services personnalisés que nous offrons pour transformer vos voyages en expériences inoubliables. Que vous cherchiez une planification sur mesure, un soutien 24/7 pendant votre séjour, ou des services exclusifs adaptés à vos besoins, nous sommes là pour vous offrir une expérience de voyage exceptionnelle à chaque étape.</p>
+                <h2 class="animate__animated animate__fadeIn">Our services</h2>
+                <p class="small text-center">Discover the range of personalized services we offer to transform your trips into unforgettable experiences. Whether you're looking for tailor-made planning, 24/7 support during your stay, or exclusive services tailored to your needs, we're here to provide you with an exceptional travel experience every step of the way.</p>
             </div>
         </div>
 
@@ -54,9 +54,9 @@
         <!-- Text Section -->
         <div class="col-md-6 col-sm-12 mb-3 text-wrapper">
             <div class="text-content">
-                <h4 class="fw-bold mb-2">Organisation de voyages sur mésure</h4>
+                <h4 class="fw-bold mb-2">Organization of tailor-made trips</h4>
                 <p class="description-text mb-2">
-                Nous créons des voyages sur mesure adaptés à vos envies et à vos besoins. Que vous rêviez d'une escapade romantique, d'une aventure en famille ou d'un voyage culturel, nous élaborons des itinéraires personnalisés pour chaque destination. Grâce à notre expertise et notre connaissance approfondie des destinations, nous vous garantissons une expérience unique et mémorable.
+                We create tailor-made trips adapted to your desires and needs. Whether you're dreaming of a romantic getaway, a family adventure, or a cultural trip, we craft personalized itineraries for every destination. Thanks to our expertise and in-depth knowledge of destinations, we guarantee you a unique and memorable experience.
                 </p>
             </div>
         </div>
@@ -67,8 +67,8 @@
         <!-- Text Section -->
         <div class="col-md-6 col-sm-12 mb-3 text-wrapper">
             <div class="text-content">
-                <h4 class="fw-bold mb-2">Gestion complète des réservations de royage</h4>
-                <p class="description-text mb-2">Nous prenons en charge toutes les étapes de vos réservations de voyage, incluant les vols, les hôtels, les transferts et les activités. En nous confiant la gestion de vos réservations, vous bénéficiez de notre réseau de partenaires privilégiés qui nous permet de vous offrir les meilleures offres et conditions. Nous nous occupons de tout pour que vous puissiez voyager l'esprit tranquille.Bénéficiez de notre expertise pour naviguer dans le marché du travail canadien. Nous vous aidons à trouver les meilleures opportunités et à réussir votre parcours professionnel dans un environnement dynamique et stimulant.
+                <h4 class="fw-bold mb-2">Complete management of travel reservations</h4>
+                <p class="description-text mb-2">We take care of all stages of your travel reservations, including flights, hotels, transfers and activities. By entrusting us with the management of your reservations, you benefit from our network of privileged partners which allows us to offer you the best offers and conditions. We take care of everything so you can travel with peace of mind. Benefit from our expertise to navigate the Canadian job market. We help you find the best opportunities and succeed in your professional career in a dynamic and stimulating environment.
                 </p>
             </div>
         </div>
@@ -89,9 +89,9 @@
         <!-- Text Section -->
         <div class="col-md-6 col-sm-12 mb-3 text-wrapper">
             <div class="text-content">
-                <h4 class="fw-bold mb-2">Assistance et Support 24/7</h4>
+                <h4 class="fw-bold mb-2">24/7 Assistance and Support</h4>
                 <p class="description-text mb-2">
-                Nous offrons un service d'assistance et de support 24/7 pour accompagner nos clients tout au long de leur voyage. Que ce soit pour des conseils avant le départ, une aide en cas de problème sur place ou des informations sur les conditions de retour, notre équipe est toujours disponible pour répondre à vos besoins. Voyager avec nous, c'est partir en toute sérénité, sachant que nous sommes là pour vous à chaque étape de votre voyage.
+                We offer a 24/7 assistance and support service to accompany our customers throughout their journey. Whether for advice before departure, help with problems on site or information on return conditions, our team is always available to meet your needs. Traveling with us means leaving with complete peace of mind, knowing that we are there for you every step of the way.
                 </p>
             </div>
         </div>
@@ -101,7 +101,7 @@
 <div class="container section-padding p-3 mt-5">
         <div class="row text-center mb-4">
             <div class="col-md-12 col-sm-12">
-                <h2 class="animate__animated animate__fadeIn">Pour plus d'informations contactez-nous</h2>
+                <h2 class="animate__animated animate__fadeIn">For more information, contact us</h2>
             </div>
         </div>
       
@@ -125,42 +125,7 @@
                     </div>
                 <?php endif; ?>
                 <div class="card-box shadow-sm p-3">
-                    <form action="" id="contactForm" method="post">
-                        <div class="mb-3">
-                            <div class="row">
-                                <div class="col-md-6 col-sm-12">
-                                    <small>Nom & Prénom <span class="text-danger">*</span></small>
-                                    <input type="text" name="nom" class="shadow-none form-control py-3" required>
-                                </div>
-
-                                <div class="col-md-6 col-sm-12">
-                                    <small>Adresse <span class="text-danger">*</span></small>
-                                    <input type="text" name="adresse" class="shadow-none form-control py-3" required>
-                                </div>
-                            </div>
-                        </div>
-
-                        <div class="mb-3">
-                            <div class="row">
-                                <div class="col-md-6 col-sm-12">
-                                    <small>Email <span class="text-danger">*</span></small>
-                                    <input type="email" name="email" class="shadow-none form-control py-3" required>
-                                </div>
-
-                                <div class="col-md-6 col-sm-12">
-                                    <small>Numéro de téléphone <span class="text-danger">*</span></small><br>
-                                    <input type="tel" name="tel" id="phone" class="shadow-none form-control py-3" required>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="mb-4">
-                            <small>Message <span class="text-danger">*</span></small>
-                            <textarea name="message" style="height:110px;" id="" class="shadow-none" required></textarea>
-                        </div>
-                        <div class="mb-4">
-                            <button type="submit" name="submit" class="submit_btn">Soumettre maintenant</button>
-                        </div>
-                    </form>
+                <?php include_once("contact_form.php");?>
                 </div>
             </div>
         </div>  

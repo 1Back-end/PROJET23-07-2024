@@ -2,10 +2,10 @@
 <html lang="en">
 <head>
 <meta charset="UTF-8">
-    <link rel="shortcut icon" href="../image/logo.png" type="image/x-icon">
+    <link rel="shortcut icon" href="image/logo.png" type="image/x-icon">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>
-    <?php $pageTitle  = 'Services Du Mexique';?>
+    <?php $pageTitle  = 'Services From Mexico';?>
     <?php include 'title.php';?>
     <?php echo $title; ?>-<?php echo $pageTitle ; ?>
     </title>
@@ -24,7 +24,7 @@
 <section class="about-section">
  <div class="container d-flex align-items-center justify-content-center fs-1 text-white flex-column">
    <div class="mb-3">
-   <h1 class="animate__animated animate__fadeInUp text-uppercase font-weight-bold display-3">Services du  Mexique</h1>
+   <h1 class="animate__animated animate__fadeInUp text-uppercase font-weight-bold display-3">Services From Mexico</h1>
    </div>
  </div>
  </div>
@@ -35,7 +35,7 @@
 <div class="container section-padding mt-3 pb-5 p-3">
 <div class="row text-center mb-4">
             <div class="col-md-12 col-sm-12 ">
-                <p class="small text-center">Vivez des aventures mémorables au Mexique avec nos services sur mesure, incluant une assistance continue et des solutions exclusives pour garantir un séjour unique et sans souci.</p>
+                <p class="small text-center">Experience memorable adventures in Mexico with our tailor-made services, including ongoing assistance and exclusive solutions to guarantee a unique and worry-free stay.</p>
             </div>
         </div>
 
@@ -48,15 +48,15 @@
                     <span class="icon-bg"><i class="fas fa-cogs"></i></span>
                     </div>
                     <div class="mb-3">
-                        <h5 class="text-uppercase  fw-bold">Visitez aux Mexique</h5>
+                        <h5 class="text-uppercase  fw-bold">Visit Mexico</h5>
                     </div>
                     <div class="mb-3">
                         <p class="small text-muted">
-                        Découvrez les paysages spectaculaires du Mexique, où la culture vibrante rencontre des plages idylliques. Profitez des trésors historiques et des aventures uniques dans ce pays fascinant.
+                        Discover the spectacular landscapes of Mexico, where vibrant culture meets idyllic beaches. Enjoy historical treasures and unique adventures in this fascinating country.
                         </p>
                     </div>
                     <div class="mb-3">
-                    <a href="visiter_mexique.php" class="btn-services animate__animated animate__fadeInUp">Plus d'infos</a>
+                    <a href="visiter_mexique.php" class="btn-services animate__animated animate__fadeInUp">More informations</a>
                     </div>
                 </div>
             </div>
@@ -67,15 +67,15 @@
                     <span class="icon-bg"><i class="fas fa-cogs"></i></span>
                     </div>
                     <div class="mb-3">
-                        <h5 class="text-uppercase  fw-bold">Travaillez au Mexique</h5>
+                        <h5 class="text-uppercase  fw-bold">Work in Mexico</h5>
                     </div>
                     <div class="mb-3">
                         <p class="small text-muted">
-                        Explorez les opportunités professionnelles au Mexique, un pays offrant une dynamique économique et une culture accueillante. Découvrez des carrières enrichissantes dans un cadre ensoleillé et diversifié.
+                        Explore professional opportunities in Mexico, a country offering economic dynamism and a welcoming culture. Discover rewarding careers in a sunny and diverse setting.
                         </p>
                     </div>
                     <div class="mb-3">
-                    <a href="travailler_mexique.php" class="btn-services animate__animated animate__fadeInUp">Plus d'infos</a>
+                    <a href="travailler_mexique.php" class="btn-services animate__animated animate__fadeInUp">More informations</a>
                     </div>
                 </div>
             </div>
@@ -86,15 +86,15 @@
                     <span class="icon-bg"><i class="fas fa-cogs"></i></span>
                     </div>
                     <div class="mb-3">
-                        <h5 class="text-uppercase fw-bold">Etudiez au Mexique</h5>
+                        <h5 class="text-uppercase fw-bold">Study in Mexico</h5>
                     </div>
                     <div class="mb-3">
                         <p class="small text-muted">
-                        Plongez dans l'expérience académique au Mexique, où des institutions de renom offrent des formations de qualité dans un environnement culturellement riche. Profitez d'une éducation immersive tout en explorant les merveilles de ce pays fascinant.
+                        Immerse yourself in the academic experience in Mexico, where renowned institutions offer quality education in a culturally rich environment. Enjoy an immersive education while exploring the wonders of this fascinating country.
                         </p>
                     </div>
                     <div class="mb-3">
-                    <a href="etudier_mexique.php" class="btn-services animate__animated animate__fadeInUp">Plus d'infos</a>
+                    <a href="etudier_mexique.php" class="btn-services animate__animated animate__fadeInUp">More informations</a>
                     </div>
                 </div>
             </div>           

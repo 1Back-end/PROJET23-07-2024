@@ -2,10 +2,10 @@
 <html lang="en">
 <head>
 <meta charset="UTF-8">
-    <link rel="shortcut icon" href="../image/logo.png" type="image/x-icon">
+    <link rel="shortcut icon" href="image/logo.png" type="image/x-icon">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>
-    <?php $pageTitle  = 'Etudiez Au Mexique';?>
+    <?php $pageTitle  = 'Study In Mexico';?>
     <?php include 'title.php';?>
     <?php echo $title; ?>-<?php echo $pageTitle;?>
     </title>
@@ -23,7 +23,7 @@
 <section class="about-section">
  <div class="container d-flex align-items-center justify-content-center fs-1 text-white flex-column">
    <div class="mb-3">
-   <h1 class="animate__animated animate__fadeInUp text-uppercase font-weight-bold display-3">Etudiez aux Mexique</h1>
+   <h1 class="animate__animated animate__fadeInUp text-uppercase font-weight-bold display-3">Study in Mexico</h1>
    </div>
  </div>
  </div>
@@ -32,17 +32,17 @@
     <div class="row mb-5">
         <!-- Image Section -->
         <div class="col-md-6 col-sm-12 mb-3">
-            <img src="image/etudier_mexique.jpg" alt="Excellence Académique et Diversité des Programmes" class="img-fluid img-info">
+            <img src="image/etudier_mexique.jpg" alt="Academic excellence and program diversity." class="img-fluid img-info">
         </div>
 
         <!-- Text Section -->
         <div class="col-md-6 col-sm-12 mb-3 text-wrapper">
             <div class="text-content">
-                <h4 class="fw-bold mb-3">Excellence académique et diversité des programmes</h4>
+                <h4 class="fw-bold mb-3">Academic excellence and program diversity.</h4>
                 <p class="description-text">
-                Le Mexique offre une éducation de qualité avec de nombreuses universités et institutions reconnues à l'international. Que vous souhaitiez étudier l'ingénierie, les sciences humaines, le commerce ou les arts, vous trouverez des programmes académiques variés et adaptés à vos ambitions. Les établissements mexicains, tels que l'Université Nationale Autonome du Mexique (UNAM) et l'Institut Technologique et d'Études Supérieures de Monterrey (ITESM), offrent des formations d'excellence qui vous prépareront à une carrière réussie.
+                Mexico offers quality education with many internationally recognized universities and institutions. Whether you want to study engineering, humanities, business or the arts, you will find varied academic programs suited to your ambitions. Mexican institutions, such as the National Autonomous University of Mexico (UNAM) and the Technological and Higher Studies Institute of Monterrey (ITESM), offer excellent training that will prepare you for a successful career.
                 </p>
-                <a href="contact.php" class="submit_btn mb-3">Nous Contactez</a>
+                <a href="contact.php" class="submit_btn mb-3">Contact us</a>
             </div>
         </div>
     </div>
@@ -53,17 +53,17 @@
         <!-- Text Section -->
         <div class="col-md-6 col-sm-12 mb-3 text-wrapper">
             <div class="text-content">
-                <h4 class="fw-bold mb-3">Une expérience étudiante enrichissante et culturelle</h4>
+                <h4 class="fw-bold mb-3">An enriching and cultural student experience.</h4>
                 <p class="description-text">
-                Étudier au Mexique, c'est aussi vivre une aventure culturelle incomparable. En plus des cours, vous pourrez participer à des activités extracurriculaires, des projets communautaires et des échanges culturels qui enrichiront votre expérience. Explorez les richesses historiques, savourez la cuisine locale et profitez de la vie étudiante dynamique dans des villes comme Mexico, Guadalajara et Puebla. Étudier au Mexique, c'est combiner apprentissage académique et découverte d'une culture vibrante.
+                Studying in Mexico also means experiencing an incomparable cultural adventure. In addition to classes, you will be able to participate in extracurricular activities, community projects and cultural exchanges that will enrich your experience. Explore the historical riches, savor the local cuisine and enjoy the vibrant student life in cities like Mexico City, Guadalajara and Puebla. Studying in Mexico means combining academic learning and discovering a vibrant culture.
                 </p>
-                <a href="contact.php" class="submit_btn mb-3">Nous Contactez</a><br><br>
+                <a href="contact.php" class="submit_btn mb-3">Contact us</a><br><br>
             </div>
         </div>
 
          <!-- Image Section -->
          <div class="col-md-6 col-sm-12 mb-5">
-            <img src="image/etudier_mexique1.jpg" alt="Études au Canada : Votre Passerelle vers un Futur Rayonnant et Multiculturel" class="img-fluid img-info">
+            <img src="image/etudier_mexique1.jpg" alt="An enriching and cultural student experience." class="img-fluid img-info">
         </div>
 
     </div>

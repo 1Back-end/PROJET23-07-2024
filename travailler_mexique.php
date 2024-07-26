@@ -2,10 +2,10 @@
 <html lang="en">
 <head>
 <meta charset="UTF-8">
-    <link rel="shortcut icon" href="../image/logo.png" type="image/x-icon">
+    <link rel="shortcut icon" href="image/logo.png" type="image/x-icon">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>
-    <?php $pageTitle  = 'Travaillez au Mexique';?>
+    <?php $pageTitle  = 'Work in Mexico';?>
     <?php include 'title.php';?>
     <?php echo $title; ?>-<?php echo $pageTitle ; ?>
     </title>
@@ -23,7 +23,7 @@
 <section class="about-section">
  <div class="container d-flex align-items-center justify-content-center fs-1 text-white flex-column">
    <div class="mb-3">
-   <h1 class="animate__animated animate__fadeInUp text-uppercase font-weight-bold display-3">Travaillez au Mexique</h1>
+   <h1 class="animate__animated animate__fadeInUp text-uppercase font-weight-bold display-3">Work in Mexico</h1>
    </div>
  </div>
  </div>
@@ -38,11 +38,11 @@
         <!-- Text Section -->
         <div class="col-md-6 col-sm-12  mb-3 text-wrapper">
             <div class="text-content">
-                <h4 class="fw-bold mb-3">Opportunités de carrière dans un marché en pleine expansion</h4>
+                <h4 class="fw-bold mb-3">Career opportunities in a growing market.</h4>
                 <p class="description-text">
-                Le Mexique offre un environnement dynamique et stimulant pour les professionnels à la recherche de nouvelles opportunités de carrière. Avec une économie diversifiée et en croissance, des secteurs tels que la technologie, l'ingénierie, le tourisme et les énergies renouvelables sont en plein essor. Rejoignez des entreprises innovantes et profitez d'un marché du travail en constante évolution, où vos compétences et votre expertise seront valorisées.
+                Mexico offers a dynamic and stimulating environment for professionals seeking new career opportunities. With a diverse and growing economy, sectors such as technology, engineering, tourism and renewable energy are booming. Join innovative companies and benefit from a constantly evolving job market, where your skills and expertise will be valued.
                 </p>
-                <a href="contact.php" class="submit_btn mb-3">Nous Contactez</a>
+                <a href="contact.php" class="submit_btn mb-3">Contact us</a>
             </div>
         </div>
     </div>
@@ -53,11 +53,11 @@
         <!-- Text Section -->
         <div class="col-md-6 col-sm-12 mb-3 text-wrapper">
             <div class="text-content">
-                <h4 class="fw-bold mb-3">Vivre et travailler dans un cadre enrichissant et culturel</h4>
+                <h4 class="fw-bold mb-3">Live and work in an enriching and cultural environment</h4>
                 <p class="description-text">
-                En travaillant au Mexique, vous aurez l'occasion unique de vous immerger dans une culture riche et vibrante. De la cuisine exquise aux fêtes traditionnelles colorées, en passant par la musique et l'art, le Mexique offre un cadre de vie exceptionnel. Profitez d'un équilibre travail-vie personnelle harmonieux, tout en découvrant la chaleur et l'hospitalité des Mexicains. Travailler au Mexique, c'est bien plus qu'une carrière, c'est une expérience de vie enrichissante.
+                Working in Mexico, you will have the unique opportunity to immerse yourself in a rich and vibrant culture. From exquisite cuisine to colorful traditional festivals, music and art, Mexico offers an exceptional living environment. Enjoy a harmonious work-life balance, while experiencing the warmth and hospitality of Mexicans. Working in Mexico is much more than a career, it is an enriching life experience.
                 </p>
-                <a href="contact.php" class="submit_btn mb-3">Nous Contactez</a><br><br>
+                <a href="contact.php" class="submit_btn mb-3">Contact us</a><br><br>
             </div>
         </div>
 

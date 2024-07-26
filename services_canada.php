@@ -2,10 +2,10 @@
 <html lang="en">
 <head>
 <meta charset="UTF-8">
-    <link rel="shortcut icon" href="../image/logo.png" type="image/x-icon">
+    <link rel="shortcut icon" href="image/logo.png" type="image/x-icon">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>
-    <?php $pageTitle  = 'Services Du Canada';?>
+    <?php $pageTitle  = 'Services Of Canada';?>
     <?php include 'title.php';?>
     <?php echo $title; ?>-<?php echo $pageTitle ; ?>
     </title>
@@ -24,7 +24,7 @@
 <section class="about-section">
  <div class="container d-flex align-items-center justify-content-center fs-1 text-white flex-column">
    <div class="mb-3">
-   <h1 class="animate__animated animate__fadeInUp text-uppercase font-weight-bold display-3">Services du Canada</h1>
+   <h1 class="animate__animated animate__fadeInUp text-uppercase font-weight-bold display-3">Services Of Canada</h1>
    </div>
  </div>
  </div>
@@ -35,7 +35,7 @@
 <div class="container section-padding mt-3 pb-5 p-3">
 <div class="row text-center mb-4">
             <div class="col-md-12 col-sm-12 ">
-                <p class="small text-center">Transformez vos voyages au Canada avec nos services personnalisés, de la planification sur mesure au soutien 24/7, pour une expérience exceptionnelle à chaque étape.</p>
+                <p class="small text-center">Transform your travels to Canada with our personalized services, from tailor-made planning to 24/7 support, for an exceptional experience every step of the way.</p>
             </div>
         </div>
 
@@ -48,15 +48,15 @@
                     <span class="icon-bg"><i class="fas fa-cogs"></i></span>
                     </div>
                     <div class="mb-3">
-                        <h5 class="text-uppercase fw-bold">Visiterz le CANADA</h5>
+                        <h5 class="text-uppercase fw-bold">Visit Canada</h5>
                     </div>
                     <div class="mb-3">
                         <p class="small  text-muted">
-                        Découvrez les paysages majestueux et la culture vibrante du Canada. Nous vous guidons vers les destinations incontournables pour une expérience authentique et mémorable.
+                        Discover the majestic landscapes and vibrant culture of Canada. We guide you to the must-see destinations for an authentic and memorable experience.
                         </p>
                     </div>
                     <div class="mb-3">
-                    <a href="visiter_canade.php" class="btn-services animate__animated animate__fadeInUp">Plus d'infos</a>
+                    <a href="visiter_canade.php" class="btn-services animate__animated animate__fadeInUp">More informations</a>
                     </div>
                 </div>
             </div>
@@ -67,15 +67,15 @@
                     <span class="icon-bg"><i class="fas fa-cogs"></i></span>
                     </div>
                     <div class="mb-3">
-                        <h5 class="text-uppercase fw-bold">Travaillez au CANADA</h5>
+                        <h5 class="text-uppercase fw-bold">Work in Canada</h5>
                     </div>
                     <div class="mb-3">
                         <p class="small text-muted">
-                        Ouvrez la porte à des opportunités professionnelles enrichissantes dans un environnement dynamique. Nous vous aidons à naviguer dans le marché du travail canadien et à trouver les meilleures opportunités pour votre carrière.
+                        Open the door to rewarding professional opportunities in a dynamic environment. We help you navigate the Canadian job market and find the best opportunities for your career.
                         </p>
                     </div>
                     <div class="mb-3">
-                    <a href="travailler_canada.php" class="btn-services animate__animated animate__fadeInUp">Plus d'infos</a>
+                    <a href="travailler_canada.php" class="btn-services animate__animated animate__fadeInUp">More informations</a>
                     </div>
                 </div>
             </div>
@@ -86,15 +86,15 @@
                     <span class="icon-bg"><i class="fas fa-cogs"></i></span>
                     </div>
                     <div class="mb-3">
-                        <h5 class="text-uppercase fw-bold">Etudiez au CANADA</h5>
+                        <h5 class="text-uppercase fw-bold">Study in Canada</h5>
                     </div>
                     <div class="mb-3">
                         <p class="small text-muted">
-                        Explorez des programmes académiques de premier plan et bénéficiez d'une éducation de qualité dans un cadre enrichissant. Nous vous assistons dans la recherche des meilleures institutions pour une expérience d'étude exceptionnelle au Canada.
+                        Explore leading academic programs and benefit from a quality education in an enriching setting. We assist you in finding the best institutions for an exceptional study experience in Canada.
                         </p>
                     </div>
                     <div class="mb-3">
-                    <a href="etudier_canada.php" class="btn-services animate__animated animate__fadeInUp">Plus d'infos</a>
+                    <a href="etudier_canada.php" class="btn-services animate__animated animate__fadeInUp">More informations</a>
                     </div>
                 </div>
             </div>           

@@ -2,10 +2,10 @@
 <html lang="en">
 <head>
 <meta charset="UTF-8">
-    <link rel="shortcut icon" href="../image/logo.png" type="image/x-icon">
+    <link rel="shortcut icon" href="image/logo.png" type="image/x-icon">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>
-    <?php $pageTitle  = 'Etudiez au Canada';?>
+    <?php $pageTitle  = 'Visit Canada';?>
     <?php include 'title.php';?>
     <?php echo $title; ?>-<?php echo $pageTitle ; ?>
     </title>
@@ -23,7 +23,7 @@
 <section class="about-section">
  <div class="container d-flex align-items-center justify-content-center fs-1 text-white flex-column">
    <div class="mb-3">
-   <h1 class="animate__animated animate__fadeInUp text-uppercase font-weight-bold display-3">Visitez le canada</h1>
+   <h1 class="animate__animated animate__fadeInUp text-uppercase font-weight-bold display-3">Visit Canada</h1>
    </div>
  </div>
  </div>
@@ -38,11 +38,11 @@
         <!-- Text Section -->
         <div class="col-md-6 col-sm-12 mb-3 text-wrapper">
             <div class="text-content">
-                <h4 class="fw-bold mb-3">Explorez le Canada en toute sérénité : Votre voyage planifié par des experts</h4>
+                <h4 class="fw-bold mb-3">Explore Canada with complete peace of mind: Your trip planned by experts.</h4>
                 <p class="description-text">
-                Explorez les merveilles du Canada grâce à nos services entièrement personnalisés. Nous vous offrons une expérience enrichissante et professionnelle, parfaitement adaptée à vos besoins uniques. Chaque étape de votre voyage est soigneusement planifiée pour garantir des moments inoubliables. Faites confiance à notre expertise pour transformer votre séjour canadien en une aventure mémorable.
+                Explore the wonders of Canada with our fully personalized services. We offer you a rewarding and professional experience, perfectly tailored to your unique needs. Every step of your trip is carefully planned to ensure unforgettable moments. Trust our expertise to transform your Canadian stay into a memorable adventure.
                 </p>
-                <a href="contact.php" class="submit_btn mb-3">Nous Contactez</a>
+                <a href="contact.php" class="submit_btn mb-3">Contact us</a>
             </div>
         </div>
     </div>
@@ -53,11 +53,11 @@
         <!-- Text Section -->
         <div class="col-md-6 col-sm-12 mb-3 text-wrapper">
             <div class="text-content">
-                <h4 class="fw-bold mb-3">Votre voyage Canadien réimaginé : Une aventure sur mésure pour des souvenirs inoubliables</h4>
+                <h4 class="fw-bold mb-3">Your Canadian trip reimagined: A tailor-made adventure for unforgettable memories.</h4>
                 <p class="description-text">
-                Venez découvrir le Canada avec nos services sur mesure qui transforment votre voyage en une aventure exceptionnelle. Nous offrons une planification détaillée et un accompagnement personnalisé pour garantir que chaque aspect de votre séjour soit parfait. Que vous cherchiez à explorer les paysages majestueux ou à profiter de la culture vibrante, notre équipe est là pour répondre à vos attentes. Faites de votre voyage canadien une expérience inoubliable avec notre expertise.
+                Come discover Canada with our tailor-made services that transform your trip into an exceptional adventure. We offer detailed planning and personalized support to ensure that every aspect of your stay is perfect. Whether you are looking to explore the majestic landscapes or enjoy the vibrant culture, our team is here to meet your expectations. Make your Canadian trip an unforgettable experience with our expertise.
                 </p>
-                <a href="contact.php" class="submit_btn mb-3">Nous Contactez</a><br><br>
+                <a href="contact.php" class="submit_btn mb-3">>Contact us</a><br><br>
             </div>
         </div>
 

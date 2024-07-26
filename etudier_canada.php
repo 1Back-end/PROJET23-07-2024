@@ -2,10 +2,10 @@
 <html lang="en">
 <head>
 <meta charset="UTF-8">
-    <link rel="shortcut icon" href="../image/logo.png" type="image/x-icon">
+    <link rel="shortcut icon" href="image/logo.png" type="image/x-icon">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>
-    <?php $pageTitle  = 'Etudiez au Canada';?>
+    <?php $pageTitle  = 'Study in Canada';?>
     <?php include 'title.php';?>
     <?php echo $title; ?>-<?php echo $pageTitle ; ?>
     </title>
@@ -23,7 +23,7 @@
 <section class="about-section">
  <div class="container d-flex align-items-center justify-content-center fs-1 text-white flex-column">
    <div class="mb-3">
-   <h1 class="animate__animated animate__fadeInUp text-uppercase font-weight-bold display-3">Etudiez canada</h1>
+   <h1 class="animate__animated animate__fadeInUp text-uppercase font-weight-bold display-3">Study in Canada</h1>
    </div>
  </div>
  </div>
@@ -32,17 +32,17 @@
     <div class="row mb-5">
         <!-- Image Section -->
         <div class="col-md-6 col-sm-12 mb-3">
-            <img src="image/Etude1.jpg" alt="Étudiez au Canada : Une Opportunité académique inégalée et un avenir prometteur." class="img-fluid img-info">
+            <img src="image/Etude1.jpg" alt="Study in Canada: An Unrivaled Academic Opportunity." class="img-fluid img-info">
         </div>
 
         <!-- Text Section -->
         <div class="col-md-6 col-sm-12 mb-3 text-wrapper">
             <div class="text-content">
-                <h4 class="fw-bold mb-3">Étudiez au Canada : Une Opportunité académique inégalée.</h4>
+                <h4 class="fw-bold mb-3">Study in Canada: An Unrivaled Academic Opportunity.</h4>
                 <p class="description-text">
-                Découvrez l'excellence académique et la diversité culturelle du Canada avec nos services d'accompagnement spécialisés pour étudiants internationaux. Le Canada est renommé pour ses établissements d'enseignement de classe mondiale, ses environnements sécurisés et inclusifs, et ses opportunités de recherche innovantes. Nous vous guidons à chaque étape de votre parcours éducatif, de la sélection des programmes à la demande de visa, en passant par l'intégration dans votre nouvelle communauté. 
+                Discover the academic excellence and cultural diversity of Canada with our specialized support services for international students. Canada is renowned for its world-class educational institutions, safe and inclusive environments, and innovative research opportunities. We guide you through every step of your educational journey, from program selection to visa application to integrating into your new community.
                 </p>
-                <a href="contact.php" class="submit_btn mb-3">Nous Contactez</a>
+                <a href="contact.php" class="submit_btn mb-3">Contact us</a>
             </div>
         </div>
     </div>
@@ -53,17 +53,17 @@
         <!-- Text Section -->
         <div class="col-md-6 col-sm-12 mb-3 text-wrapper">
             <div class="text-content">
-                <h4 class="fw-bold mb-3">Études au Canada : Votre passerelle vers un futur rayonnant</h4>
+                <h4 class="fw-bold mb-3">Study in Canada: Your gateway to a bright future.</h4>
                 <p class="description-text">
-                Embarquez pour une aventure académique inoubliable au Canada, un pays où l'éducation de haut niveau rencontre une richesse culturelle exceptionnelle. Nos services personnalisés vous offrent un accompagnement complet pour naviguer dans le système éducatif canadien, depuis le choix de l’établissement jusqu’à l’obtention de votre visa étudiant. Explorez des programmes variés dans des universités réputées mondialement, tout en profitant d'un environnement multiculturel accueillant.
+                Embark on an unforgettable academic adventure in Canada, a country where high-level education meets exceptional cultural wealth. Our personalized services offer you complete support to navigate the Canadian education system, from choosing an institution to obtaining your student visa. Explore diverse programs at world-renowned universities, while enjoying a welcoming multicultural environment.
                 </p>
-                <a href="contact.php" class="submit_btn mb-3">Nous Contactez</a><br><br>
+                <a href="contact.php" class="submit_btn mb-3">Contact us</a><br><br>
             </div>
         </div>
 
          <!-- Image Section -->
          <div class="col-md-6 col-sm-12 mb-5">
-            <img src="image/Etude2.jpg" alt="Études au Canada : Votre Passerelle vers un Futur Rayonnant et Multiculturel" class="img-fluid img-info">
+            <img src="image/Etude2.jpg" alt="Study in Canada: Your gateway to a bright future." class="img-fluid img-info">
         </div>
 
     </div>

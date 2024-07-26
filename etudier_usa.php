@@ -2,10 +2,10 @@
 <html lang="en">
 <head>
 <meta charset="UTF-8">
-    <link rel="shortcut icon" href="../image/logo.png" type="image/x-icon">
+    <link rel="shortcut icon" href="image/logo.png" type="image/x-icon">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>
-    <?php $pageTitle  = 'Etudiez aux USA';?>
+    <?php $pageTitle  = 'Study in the USA';?>
     <?php include 'title.php';?>
     <?php echo $title; ?>-<?php echo $pageTitle ; ?>
     </title>
@@ -23,7 +23,7 @@
 <section class="about-section">
  <div class="container d-flex align-items-center justify-content-center fs-1 text-white flex-column">
    <div class="mb-3">
-   <h1 class="animate__animated animate__fadeInUp text-uppercase font-weight-bold display-3">Etudiez aux USA</h1>
+   <h1 class="animate__animated animate__fadeInUp text-uppercase font-weight-bold display-3">Study in the USA</h1>
    </div>
  </div>
  </div>
@@ -38,11 +38,11 @@
         <!-- Text Section -->
         <div class="col-md-6 col-sm-12  mb-3 text-wrapper">
             <div class="text-content">
-                <h4 class="fw-bold mb-3">Des Programmes Académiques de Classe Mondiale</h4>
+                <h4 class="fw-bold mb-3">World-Class academic Programs</h4>
                 <p class="description-text">
-                Avec <b>World Travel Company</b>, explorez les meilleures opportunités éducatives aux États-Unis. Accédez à des universités prestigieuses et des programmes innovants dans divers domaines. Nous vous aidons à choisir l’établissement qui correspond à vos aspirations académiques et professionnelles, et à naviguer à travers les exigences d'admission. Préparez-vous à une expérience éducative enrichissante et à un avenir prometteur grâce à notre expertise.
+                With <b>World Travel Company</b>, explore the best educational opportunities in the United States. Gain access to prestigious universities and innovative programs in various fields. We help you choose the institution that matches your academic and professional aspirations, and navigate through admissions requirements. Prepare yourself for an enriching educational experience and a promising future with our expertise.
                 </p>
-                <a href="contact.php" class="submit_btn mb-3">Nous Contactez</a>
+                <a href="contact.php" class="submit_btn mb-3">Contact us</a>
             </div>
         </div>
     </div>
@@ -53,11 +53,11 @@
         <!-- Text Section -->
         <div class="col-md-6 col-sm-12 mb-3 text-wrapper">
             <div class="text-content">
-                <h4 class="fw-bold mb-3">Support Complet pour une Réussite Académique</h4>
+                <h4 class="fw-bold mb-3">Comprehensive Support for Academic Success.</h4>
                 <p class="description-text">
-                <b>World Travel Company</b> vous accompagne tout au long de votre parcours académique aux États-Unis. De la demande de visa étudiant à l'adaptation à la vie universitaire, nous vous offrons un soutien personnalisé pour chaque étape. Profitez de conseils pratiques, d'une assistance dans la gestion de votre quotidien et d'informations sur la culture locale pour assurer une transition réussie et une expérience universitaire épanouissante.
+                <b>World Travel Company</b> supports you throughout your academic journey in the United States. From applying for a student visa to adjusting to university life, we offer personalized support every step of the way. Benefit from practical advice, assistance in managing your daily life and information on local culture to ensure a successful transition and a fulfilling university experience.
                 </p>
-                <a href="contact.php" class="submit_btn mb-3">Nous Contactez</a><br><br>
+                <a href="contact.php" class="submit_btn mb-3">Contact us</a><br><br>
             </div>
         </div>
 

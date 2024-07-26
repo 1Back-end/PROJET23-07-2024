@@ -2,10 +2,10 @@
 <html lang="en">
 <head>
 <meta charset="UTF-8">
-    <link rel="shortcut icon" href="../image/logo.png" type="image/x-icon">
+    <link rel="shortcut icon" href="image/logo.png" type="image/x-icon">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>
-    <?php $pageTitle  = 'Travaillez aux USA';?>
+    <?php $pageTitle  = 'Work in the USA';?>
     <?php include 'title.php';?>
     <?php echo $title; ?>-<?php echo $pageTitle ; ?>
     </title>
@@ -23,7 +23,7 @@
 <section class="about-section">
  <div class="container d-flex align-items-center justify-content-center fs-1 text-white flex-column">
    <div class="mb-3">
-   <h1 class="animate__animated animate__fadeInUp text-uppercase font-weight-bold display-3">Travaillez aux USA</h1>
+   <h1 class="animate__animated animate__fadeInUp text-uppercase font-weight-bold display-3">Work in the USA</h1>
    </div>
  </div>
  </div>
@@ -38,11 +38,11 @@
         <!-- Text Section -->
         <div class="col-md-6 col-sm-12  mb-3 text-wrapper">
             <div class="text-content">
-                <h4 class="fw-bold mb-3">Opportunités de carrière inégalées</h4>
+                <h4 class="fw-bold mb-3">Unparalleled career opportunities</h4>
                 <p class="description-text">
-                Avec <b>World Travel Company</b>, accédez à des opportunités de carrière uniques aux États-Unis. Que vous soyez un jeune diplômé ou un professionnel expérimenté, nous vous aidons à trouver le poste idéal dans votre domaine. Profitez de notre réseau de partenaires et de notre expertise pour naviguer dans le marché du travail américain et atteindre vos objectifs professionnels. Transformez vos aspirations en réalité et bâtissez une carrière fructueuse sur le sol américain.
+                With <b>World Travel Company</b>, access unique career opportunities in the United States. Whether you are a recent graduate or an experienced professional, we help you find the ideal position in your field. Take advantage of our network of partners and our expertise to navigate the American job market and achieve your professional goals. Turn your aspirations into reality and build a successful career on American soil.
                 </p>
-                <a href="contact.php" class="submit_btn mb-3">Nous Contactez</a>
+                <a href="contact.php" class="submit_btn mb-3">Contact us</a>
             </div>
         </div>
     </div>
@@ -53,11 +53,11 @@
         <!-- Text Section -->
         <div class="col-md-6 col-sm-12 mb-3 text-wrapper">
             <div class="text-content">
-                <h4 class="fw-bold mb-3">Accompagnement personnalisé pour votre projet professionnel</h4>
+                <h4 class="fw-bold mb-3">Personalized support for your professional project.</h4>
                 <p class="description-text">
-                Nous comprenons que travailler aux États-Unis peut être un défi, c'est pourquoi <b>World Travel Company</b> vous offre un accompagnement personnalisé à chaque étape. De la préparation de votre visa à l'intégration dans votre nouvel environnement de travail, nous vous guidons tout au long du processus. Nos conseillers sont là pour vous fournir des conseils pratiques et des ressources essentielles afin de garantir une transition en douceur et une expérience professionnelle enrichissante.
+                We understand that working in the United States can be a challenge, which is why <b>World Travel Company</b> offers you personalized support every step of the way. From preparing your visa to integrating into your new work environment, we guide you throughout the process. Our advisors are here to provide you with practical advice and essential resources to ensure a smooth transition and a rewarding professional experience.
                 </p>
-                <a href="contact.php" class="submit_btn mb-3">Nous Contactez</a><br><br>
+                <a href="contact.php" class="submit_btn mb-3">Contact us</a><br><br>
             </div>
         </div>
 

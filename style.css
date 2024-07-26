@@ -418,6 +418,8 @@ footer i:hover{
     object-fit: cover;
     transition: transform 0.3s ease, box-shadow 0.3s ease;
     cursor: pointer;
+    border-radius: 20px;
+    
 
 }
 
@@ -497,16 +499,28 @@ textarea:focus {
 }
 .iti--allow-dropdown .iti__flag-container:hover .iti__selected-flag {
     background: none;
-  }
-/* Style pour le conteneur Google Translate caché */
-#google_translate_element {
-    position: absolute; /* Assure que le conteneur ne prend pas de place */
-    left: -9999px; /* Le positionne hors de l'écran pour qu'il ne soit pas visible */
-    width: 1px; /* Réduit la largeur pour qu'il ne soit pas perceptible */
-    height: 1px; /* Réduit la hauteur pour qu'il ne soit pas perceptible */
-    overflow: hidden; /* Cache tout débordement */
-    visibility: hidden; /* Rend le conteneur invisible */
-    opacity: 0; /* Rend le conteneur complètement transparent */
+}
+/* Styles pour le menu déroulant */
+.form {
+    padding: 10px 20px;
+    border: 1px solid #fff;
+    background-color: transparent;
+    color: white;
+    cursor: pointer;
+}
+.form option{
+    color: black;
+    cursor: pointer;
+}
+/* Styles pour le menu déroulant au survol */
+.form:hover {
+    border-color: #999;
+}
+
+/* Styles pour le menu déroulant au focus */
+.form:focus {
+    outline: none;
+    border-color: #007bff;
 }
 
 
@@ -561,11 +575,9 @@ textarea:focus {
     .form-control{
         width: 100%;
     }
-    
-    /* Style for the options inside the select box */
-    .language-input option {
-        color: #000; /* Black text for the options */
-        padding-left: 30px; /* Make room for the flag icons */
+    .form {
+        font-size: 0.875rem;
+        padding: 0.5rem;
     }
 }
 

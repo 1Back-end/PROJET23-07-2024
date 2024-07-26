@@ -7,7 +7,7 @@
     <link rel="shortcut icon" href="image/logo.png" type="image/x-icon">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>
-    <?php $pageTitle  = 'Acceuil';?>
+    <?php $pageTitle  = 'Home';?>
     <?php include 'title.php';?>
     <?php echo $title; ?>-<?php echo $pageTitle ; ?>
     </title>
@@ -36,15 +36,15 @@
    <div class="row">
         <div class="col-md-6 col-sm-12 mt-md-3 mb-3">
             <div class="mb-3">
-                <h1 class="animate__animated animate__fadeInUp section-title">Ouvrez la voie à vos rêves de voyage</h1>
+                <h1 class="animate__animated animate__fadeInUp section-title">Pave the way for your travel dreams</h1>
             </div>
             <div class="mb-3">
                 <p class="animate__animated animate__fadeInUp description-text">
-                Avec <b> World Travel Company</b>, plongez dans un univers de découvertes et d'aventures. Explorez des destinations exotiques et vivez des expériences uniques qui répondent à vos aspirations les plus profondes. Nous sommes spécialisés dans la création de voyages sur mesure, conçus pour refléter vos désirs et vos intérêts personnels. Nos experts passionnés vous guideront vers des aventures inoubliables et vous aideront à créer des souvenirs impérissables. Découvrez la magie de chaque destination grâce à notre savoir-faire et notre engagement à rendre chaque voyage exceptionnel.
+                With <b>World Travel Company</b>, immerse yourself in a world of discoveries and adventures. Explore exotic destinations and enjoy unique experiences that fulfill your deepest aspirations. We specialize in creating tailor-made trips, designed to reflect your personal desires and interests. Our passionate experts will guide you on unforgettable adventures and help you create lasting memories. Discover the magic of each destination thanks to our know-how and our commitment to making each trip exceptional.
                 </p>
             </div>
             <div class="mb-2">
-                <a href="#" class="btn-services animate__animated animate__fadeInUp">En savoir plus</a>
+                <a href="#" class="btn-services animate__animated animate__fadeInUp">Learn more</a>
             </div>
         </div>
         <div class="col-md-6 col-sm-12 mb-3">
@@ -58,7 +58,7 @@
 <div class="container section-padding p-3 mt-5">
         <div class="row text-center mb-4">
             <div class="col-md-12 col-sm-12">
-                <h2 class="animate__animated animate__fadeIn">Ce Qui Nous Anime</h2>
+                <h2 class="animate__animated animate__fadeIn">What Drives Us</h2>
             </div>
         </div>
 
@@ -70,11 +70,11 @@
                         <i class="fa fa-lock fa-3x" aria-hidden="true"></i>
                     </div>
                     <div class="mb-3">
-                        <h5 class="text-uppercase">Sécurité et Confiance</h5>
+                        <h5 class="text-uppercase">Security and Trust</h5>
                     </div>
                     <div>
                         <p class="small">
-                        Voyagez l’esprit tranquille avec <b>World Travel Company</b>, où chaque aspect de votre expérience est soigneusement pris en charge. Nous garantissons la sécurité totale de vos paiements grâce à des technologies de pointe et des protocoles rigoureux.
+                        Travel with peace of mind with <b>World Travel Company</b>, where every aspect of your experience is carefully taken care of. We guarantee the complete security of your payments thanks to cutting-edge technologies and rigorous protocols.
                         </p>
                     </div>
                 </div>
@@ -87,11 +87,11 @@
                         <i class="fa fa-globe fa-3x" aria-hidden="true"></i>
                     </div>
                     <div class="mb-3">
-                        <h5 class="text-uppercase">Explorez le Monde</h5>
+                        <h5 class="text-uppercase">Explore the World</h5>
                     </div>
                     <div>
                         <p class="small">
-                        Découvrez des destinations fascinantes et plongez dans des cultures diverses à travers nos voyages sur mesure. Nous vous offrons l'opportunité d'explorer des lieux enchanteurs et de vivre des expériences authentiques qui vous marqueront à jamais.
+                        Discover fascinating destinations and immerse yourself in diverse cultures through our tailor-made trips. We offer you the opportunity to explore enchanting places and live authentic experiences that will mark you forever.
                         </p>
                     </div>
                 </div>
@@ -104,11 +104,11 @@
                         <i class="fa fa-star fa-3x" aria-hidden="true"></i>
                     </div>
                     <div class="mb-3">
-                        <h5 class="text-uppercase">Qualité et Excellence</h5>
+                        <h5 class="text-uppercase">Quality and Excellence</h5>
                     </div>
                     <div>
                         <p class="small">
-                        Profitez d'un service de haute qualité, où chaque aspect de votre voyage est pris en charge avec une attention méticuleuse aux détails. World Travel Company s'engage à offrir une expérience exceptionnelle en personnalisant chaque voyage selon vos préférences uniques.
+                        Enjoy high-quality service, where every aspect of your trip is taken care of with meticulous attention to detail. World Travel Company is committed to providing an exceptional experience by personalizing each trip to your unique preferences.
                         </p>
                     </div>
                 </div>
@@ -119,7 +119,7 @@
     <div class="container section-padding mt-2 p-3">
     <div class="row text-center mb-4">
             <div class="col-md-12 col-sm-12">
-                <h2 class="animate__animated animate__fadeIn">Comment travaillons nous ?</h2>
+                <h2 class="animate__animated animate__fadeIn">How do we work?</h2>
             </div>
         </div>
 
@@ -130,11 +130,11 @@
             <i class="fa fa-file-upload fa-3x" aria-hidden="true"></i>
         </div>
         <div class="mb-3">
-            <h5 class="text-uppercase fw-bold">Soumission des documents</h5>
+            <h5 class="text-uppercase fw-bold">Submission of documents</h5>
         </div>
         <div>
             <p class="small text-muted">
-                Soumettez facilement vos documents en ligne.Vérification rapide et sécurisée.
+            Easily submit your documents online. Fast and secure verification.
             </p>
         </div>
     </div>
@@ -146,11 +146,11 @@
                 <i class="fa fa-user-plus fa-3x" aria-hidden="true"></i>
             </div>
             <div class="mb-3">
-                <h5 class="text-uppercase fw-bold">Inscriptions et administrations</h5>
+                <h5 class="text-uppercase fw-bold">Registrations and administrations</h5>
             </div>
             <div>
                 <p class="small text-muted">
-                    Gérez vos inscriptions facilement. Assistance administrative disponible.
+                Manage your registrations easily. Administrative assistance available.
                 </p>
             </div>
         </div>
@@ -162,11 +162,11 @@
                 <i class="fa fa-passport fa-3x" aria-hidden="true"></i>
             </div>
             <div class="mb-3">
-                <h5 class="text-uppercase fw-bold font-14">Préparation visa et logements</h5>
+                <h5 class="text-uppercase fw-bold font-14">Visa preparation and accommodation</h5>
             </div>
             <div>
                 <p class="small text-muted">
-                    Assistance pour vos démarches de visa.Trouvez un logement adapté facilement.
+                Assistance with your visa procedures. Find suitable accommodation easily.
                 </p>
             </div>
         </div>
@@ -177,11 +177,11 @@
             <i class="fa fa-plane fa-3x" aria-hidden="true"></i>
             </div>
             <div class="mb-3">
-                <h5 class="text-uppercase fw-bold">Accompagnement voyage</h5>
+                <h5 class="text-uppercase fw-bold">Travel support</h5>
             </div>
             <div>
                 <p class="small text-muted">
-                Planifiez votre voyage en toute sérénité.Bénéficiez d'un accompagnement personnalisé.
+                Plan your trip with complete peace of mind. Benefit from personalized support.
                 </p>
             </div>
         </div>
@@ -190,7 +190,7 @@
 </div>
 <div class="row text-center mb-4">
             <div class="col-md-12 col-sm-12">
-                <a href="contact.php" class="submit_btn text-uppercase">Postuler maintenant <i class="fa fa-arrow-right" aria-hidden="true"></i></a>
+                <a href="contact.php" class="submit_btn text-uppercase">Apply now <i class="fa fa-arrow-right" aria-hidden="true"></i></a>
             </div>
         </div>
     </div>
@@ -198,7 +198,7 @@
     <div class="container section-padding p-3 mt-5">
         <div class="row text-center mb-4">
             <div class="col-md-12 col-sm-12">
-                <h2 class="animate__animated animate__fadeIn">Contactez-Nous</h2>
+                <h2 class="animate__animated animate__fadeIn">Contact Us</h2>
             </div>
         </div>
       
@@ -222,42 +222,7 @@
                     </div>
                 <?php endif; ?>
                 <div class="card-box shadow-sm p-3">
-                    <form action="" id="contactForm" method="post">
-                        <div class="mb-3">
-                            <div class="row">
-                                <div class="col-md-6 col-sm-12">
-                                    <small>Nom & Prénom <span class="text-danger">*</span></small>
-                                    <input type="text" name="nom" class="shadow-none form-control py-3" required>
-                                </div>
-
-                                <div class="col-md-6 col-sm-12">
-                                    <small>Adresse <span class="text-danger">*</span></small>
-                                    <input type="text" name="adresse" class="shadow-none form-control py-3" required>
-                                </div>
-                            </div>
-                        </div>
-
-                        <div class="mb-3">
-                            <div class="row">
-                                <div class="col-md-6 col-sm-12">
-                                    <small>Email <span class="text-danger">*</span></small>
-                                    <input type="email" name="email" class="shadow-none form-control py-3" required>
-                                </div>
-
-                                <div class="col-md-6 col-sm-12">
-                                    <small>Numéro de téléphone <span class="text-danger">*</span></small><br>
-                                    <input type="tel" name="tel" id="phone" class="shadow-none form-control py-3" required>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="mb-4">
-                            <small>Message <span class="text-danger">*</span></small>
-                            <textarea name="message" style="height:110px;" id="" class="shadow-none" required></textarea>
-                        </div>
-                        <div class="mb-4">
-                            <button type="submit" name="submit" class="submit_btn">Soumettre maintenant</button>
-                        </div>
-                    </form>
+                    <?php include_once("contact_form.php");?>
                 </div>
             </div>
         </div>  

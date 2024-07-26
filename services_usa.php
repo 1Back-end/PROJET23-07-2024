@@ -2,10 +2,10 @@
 <html lang="en">
 <head>
 <meta charset="UTF-8">
-    <link rel="shortcut icon" href="../image/logo.png" type="image/x-icon">
+    <link rel="shortcut icon" href="image/logo.png" type="image/x-icon">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>
-    <?php $pageTitle  = 'Services Du USA';?>
+    <?php $pageTitle  = 'USA Services';?>
     <?php include 'title.php';?>
     <?php echo $title; ?>-<?php echo $pageTitle ; ?>
     </title>
@@ -24,7 +24,7 @@
 <section class="about-section">
  <div class="container d-flex align-items-center justify-content-center fs-1 text-white flex-column">
    <div class="mb-3">
-   <h1 class="animate__animated animate__fadeInUp text-uppercase font-weight-bold display-3">Services des USA</h1>
+   <h1 class="animate__animated animate__fadeInUp text-uppercase font-weight-bold display-3">USA Services</h1>
    </div>
  </div>
  </div>
@@ -35,7 +35,7 @@
 <div class="container section-padding mt-3 pb-5 p-3">
 <div class="row text-center mb-4">
             <div class="col-md-12 col-sm-12 ">
-                <p class="small text-center">Explorez les États-Unis avec notre approche personnalisée, offrant des conseils experts et un soutien continu pour garantir un séjour inoubliable et parfaitement adapté à vos besoins</p>
+                <p class="small text-center">Explore the United States with our personalized approach, offering expert advice and ongoing support to ensure an unforgettable stay perfectly tailored to your needs.</p>
             </div>
         </div>
 
@@ -48,15 +48,15 @@
                     <span class="icon-bg"><i class="fas fa-cogs"></i></span>
                     </div>
                     <div class="mb-3">
-                        <h5 class="text-uppercase fw-bold">Visitez les USA</h5>
+                        <h5 class="text-uppercase fw-bold">Visit the USA</h5>
                     </div>
                     <div class="mb-3">
                         <p class="small text-muted">
-                        Découvrez l'Amérique avec <b>World Travel Company</b> : des gratte-ciels de New York aux plages de Californie, vivez des expériences uniques et mémorables. Embarquez pour un voyage sur mesure à travers les États-Unis et transformez vos rêves en réalité !
+                        Discover America with <b>World Travel Company</b>: from the skyscrapers of New York to the beaches of California, enjoy unique and memorable experiences. Embark on a tailor-made trip across the United States and turn your dreams into reality!
                         </p>
                     </div>
                     <div class="mb-3">
-                    <a href="visiter_usa.php" class="btn-services animate__animated animate__fadeInUp">Plus d'infos</a>
+                    <a href="visiter_usa.php" class="btn-services animate__animated animate__fadeInUp">More informations</a>
                     </div>
                 </div>
             </div>
@@ -67,15 +67,15 @@
                     <span class="icon-bg"><i class="fas fa-cogs"></i></span>
                     </div>
                     <div class="mb-3">
-                        <h5 class="text-uppercase fw-bold">Travaillez aux USA</h5>
+                        <h5 class="text-uppercase fw-bold">Work in the USA</h5>
                     </div>
                     <div class="mb-3">
                         <p class="small text-muted">
-                        Réalisez vos rêves professionnels aux États-Unis avec <b>World Travel Company</b> : bénéficiez de notre expertise pour des opportunités de carrière uniques et un accompagnement personnalisé. Transformez votre ambition en succès sur le sol américain !
+                        Make your professional dreams come true in the United States with <b>World Travel Company</b>: benefit from our expertise for unique career opportunities and personalized support. Transform your ambition into success on American soil!
                         </p>
                     </div>
                     <div class="mb-3">
-                    <a href="travailler_usa.php" class="btn-services animate__animated animate__fadeInUp">Plus d'infos</a>
+                    <a href="travailler_usa.php" class="btn-services animate__animated animate__fadeInUp">More informations</a>
                     </div>
                 </div>
             </div>
@@ -86,15 +86,15 @@
                     <span class="icon-bg"><i class="fas fa-cogs"></i></span>
                     </div>
                     <div class="mb-3">
-                        <h5 class="text-uppercase fw-bold">Etudiez aux USA</h5>
+                        <h5 class="text-uppercase fw-bold">Study in the USA</h5>
                     </div>
                     <div class="mb-3">
                         <p class="small text-muted">
-                        Explorez les meilleures opportunités éducatives aux États-Unis avec <b>World Travel Company</b> : bénéficiez de notre expertise pour un accompagnement personnalisé vers une carrière internationale réussie. Transformez votre avenir académique avec nous !
+                        Explore the best educational opportunities in the United States with <b>World Travel Company</b>: benefit from our expertise for personalized support towards a successful international career. Transform your academic future with us!
                         </p>
                     </div>
                     <div class="mb-3">
-                    <a href="etudier_usa.php" class="btn-services animate__animated animate__fadeInUp">Plus d'infos</a>
+                    <a href="etudier_usa.php" class="btn-services animate__animated animate__fadeInUp">More informations</a>
                     </div>
                 </div>
             </div>           

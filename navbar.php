@@ -10,24 +10,24 @@
       <div class="offcanvas-body">
         <ul class="navbar-nav justify-content-center flex-grow-1 pe-3">
           <li class="nav-item">
-            <a class="nav-link mx-lg-3" aria-current="page" href="index.php">Acceuil</a>
+            <a class="nav-link mx-lg-3" aria-current="page" href="index.php">Home</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link mx-lg-3" href="about.php">À propos</a>
+            <a class="nav-link mx-lg-3" href="about.php">About</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link mx-lg-3" href="services.php">Nos services</a>
+            <a class="nav-link mx-lg-3" href="services.php">Our services</a>
           </li>
           
 
           <li class="nav-item dropdown">
           <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-            Nos destinations
+          Our destinations
           </a>
           <ul class="dropdown-menu border-0">
             <li><a class="dropdown-item" href="services_canada.php">Canada</a></li>
             <li><a class="dropdown-item" href="services_usa.php">USA</a></li>
-            <li><a class="dropdown-item" href="services_mexique.php">Mexique</a></li>
+            <li><a class="dropdown-item" href="services_mexique.php">Mexico</a></li>
           </ul>
         </li>
                

@@ -2,10 +2,10 @@
 <html lang="en">
 <head>
 <meta charset="UTF-8">
-    <link rel="shortcut icon" href="../image/logo.png" type="image/x-icon">
+    <link rel="shortcut icon" href="image/logo.png" type="image/x-icon">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>
-    <?php $pageTitle  = 'Visitez aux USA';?>
+    <?php $pageTitle  = 'Visit the USA';?>
     <?php include 'title.php';?>
     <?php echo $title; ?>-<?php echo $pageTitle ; ?>
     </title>
@@ -23,7 +23,7 @@
 <section class="about-section">
  <div class="container d-flex align-items-center justify-content-center fs-1 text-white flex-column">
    <div class="mb-3">
-   <h1 class="animate__animated animate__fadeInUp text-uppercase font-weight-bold display-3">Visitez aux USA</h1>
+   <h1 class="animate__animated animate__fadeInUp text-uppercase font-weight-bold display-3">Visit the USA</h1>
    </div>
  </div>
  </div>
@@ -38,11 +38,11 @@
         <!-- Text Section -->
         <div class="col-md-6 col-sm-12 mb-3 text-wrapper">
             <div class="text-content">
-                <h4 class="fw-bold mb-3">Explorez les grandes villes Américaines</h4>
+                <h4 class="fw-bold mb-3">Explore major American cities</h4>
                 <p class="description-text">
-                Découvrez la diversité et l'énergie des grandes villes américaines avec <b>World Travel Company</b>. De la vibrante New York, capitale mondiale de la culture et des affaires, aux plages ensoleillées de Los Angeles, chaque ville offre des expériences uniques. Promenez-vous sur les célèbres avenues, visitez des musées de renommée mondiale, et dégustez une cuisine variée. Vivez l'effervescence urbaine tout en découvrant des trésors cachés.
+                Discover the diversity and energy of great American cities with <b>World Travel Company</b>. From vibrant New York, the world's cultural and business capital, to the sunny beaches of Los Angeles, each city offers unique experiences. Stroll the famous avenues, visit world-famous museums, and taste a varied cuisine. Experience the urban excitement while discovering hidden treasures.
                 </p>
-                <a href="contact.php" class="submit_btn mb-3">Nous Contactez</a>
+                <a href="contact.php" class="submit_btn mb-3">Contact us</a>
             </div>
         </div>
     </div>
@@ -53,11 +53,11 @@
         <!-- Text Section -->
         <div class="col-md-6 col-sm-12 mb-3 text-wrapper">
             <div class="text-content">
-                <h4 class="fw-bold mb-3">Aventure et nature à travers les États-Unis</h4>
+                <h4 class="fw-bold mb-3">Adventure and nature across the United States</h4>
                 <p class="description-text">
-                Plongez au cœur des paysages époustouflants et des merveilles naturelles des États-Unis. Explorez le Grand Canyon, parcourez les sentiers des parcs nationaux comme Yellowstone et Yosemite, ou détendez-vous sur les plages paradisiaques de Floride et Hawaï. Avec World Travel Company, partez à l’aventure et découvrez la beauté sauvage et les activités en plein air que l'Amérique a à offrir, du camping à la randonnée en passant par les sports nautiques.
+                Immerse yourself in the breathtaking landscapes and natural wonders of the United States. Explore the Grand Canyon, hike the trails of national parks like Yellowstone and Yosemite, or relax on the heavenly beaches of Florida and Hawaii. With World Travel Company, go on an adventure and discover the wild beauty and outdoor activities that America has to offer, from camping to hiking to water sports.
                 </p>
-                <a href="contact.php" class="submit_btn mb-3">Nous Contactez</a><br><br>
+                <a href="contact.php" class="submit_btn mb-3">Contact us</a><br><br>
             </div>
         </div>
 

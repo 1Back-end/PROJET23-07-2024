@@ -28,8 +28,39 @@
  </div>
  </div>
 </section>
+<div class="container section-padding p-3 mt-5">
+        <div class="row text-center mb-4">
+            <div class="col-md-12 col-sm-12">
+                <h2 class="animate__animated animate__fadeIn">Contact Us</h2>
+            </div>
+        </div>
+      
+        <div class="row">
+            <div class="col-md-6 col-sm-12 mb-3">
+                <div class="h-100 mb-3">
+                    <img src="image/voyage5.jpg" alt="" class="img-fluid img-contact w-100">
+                </div>
+            </div>
 
-<?php include("section_contact.php");?>
+            <div class="col-md-6 col-sm-12 mb-3">
+                <?php include_once ("send_email.php");?>
+                <?php if (!empty($succes)) : ?>
+                    <div class="alert alert-success text-center" role="alert">
+                        <?= $succes ?>
+                    </div>
+                <?php endif; ?>
+                <?php if (!empty($erreur)) : ?>
+                    <div class="alert alert-danger text-center" role="alert">
+                        <?= $erreur ?>
+                    </div>
+                <?php endif; ?>
+                <div class="card-box shadow-sm p-3">
+                    <?php include_once("contact_form.php");?>
+                </div>
+            </div>
+        </div>  
+    </div>
+
 
 
 <?php include("google_map.php");?>

@@ -68,7 +68,7 @@
                 <div class="card h-100 p-3 text-center">
                     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/1200px-Flag_of_Mexico.svg.png" class="card-img-top" alt="Drapeau du Mexique">
                     <div class="card-body">
-                        <h5 class="card-title">Mexique</h5>
+                        <h5 class="card-title">Mexico</h5>
                         <p class="text-muted">Enjoy the sunny beaches and cultural riches of Mexico, from Cancun to Mexico City.</p>
                         <a href="services_mexique.php" class="btn-services animate__animated animate__fadeInUp">More informations</a>
                     
@@ -83,7 +83,7 @@
 <div class="row text-center mb-4">
             <div class="col-md-12 col-sm-12 ">
                 <h2 class="animate__animated animate__fadeIn">Our values</h2>
-                <p class="small text-center">At <b>World Travel Company</b>, our core values ​​guide every aspect of our work, <br> enabling us to provide exceptional services to our clients.</p>
+                <p class="small text-center">At <b>World Travel Company</b>, our core values ​​guide every aspect of our work, <br> enabling us to provide exceptional services to our customers.</p>
             </div>
         </div>
 
@@ -112,11 +112,11 @@
                     <i class="fa fa-users fa-2x  mb-3"></i>
                     </div>
                     <div class="mb-3">
-                        <h5 class="text-uppercase">Intégrité</h5>
+                        <h5 class="text-uppercase">Integrity</h5>
                     </div>
                     <div>
                         <p class="small">
-                        Nous agissons toujours avec honnêteté et transparence, construisant des relations de confiance avec nos clients et partenaires.
+                        We always act with honesty and transparency, building relationships of trust with our customers and partners.
                         </p>
                     </div>
                 </div>
@@ -132,7 +132,7 @@
                     </div>
                     <div>
                         <p class="small">
-                        Nous innovons constamment pour offrir des solutions de voyage modernes et efficaces, améliorant l'expérience de nos clients.
+                        We are constantly innovating to offer modern and efficient travel solutions, improving our customers' experience.
                         </p>
                     </div>
                 </div>
@@ -144,11 +144,11 @@
                     <i class="fa fa-heart fa-2x mb-3"></i>
                     </div>
                     <div class="mb-3">
-                        <h5 class="text-uppercase">Service Client</h5>
+                        <h5 class="text-uppercase">Customer service</h5>
                     </div>
                     <div>
                         <p class="small">
-                        Nous mettons nos clients au cœur de tout ce que nous faisons, offrant un service personnalisé et attentif pour répondre à leurs besoins uniques.
+                        We put our customers at the heart of everything we do, providing personalized and attentive service to meet their unique needs.
                         </p>
                     </div>
                 </div>
