@@ -408,6 +408,7 @@ footer i:hover{
     object-fit: cover;
     transition: transform 0.3s ease, box-shadow 0.3s ease;
     cursor: pointer;
+    border-radius: 20px;
 }
 .img-info:hover{
     transition: 0.3s ease-in-out;
@@ -522,7 +523,12 @@ textarea:focus {
     outline: none;
     border-color: #007bff;
 }
-
+.img-about{
+    width: 100%;
+    height: auto;
+    margin-bottom: 20px;
+    border-radius: 20px;
+}
 
 @media (max-width:732px) {
     .hero-section .container p{
@@ -567,6 +573,7 @@ textarea:focus {
         width: 100%;
         height: auto;
         margin-bottom: 20px;
+        border-radius: 20px;
     }
     .btn_info {
         margin-bottom: 15px; /* Ajustez la marge si nécessaire */
@@ -614,6 +621,9 @@ textarea:focus {
     .col-md-12 {
         width: 100%;            /* Les colonnes prennent toute la largeur */
         margin-bottom: 20px;    /* Ajoute de l'espace entre les colonnes */
+    }
+    #phone {
+        width: 100%; /* Champ de saisie 100% de la largeur pour les écrans plus petits */
     }
     
 }
@@ -663,6 +673,7 @@ textarea:focus {
         height: auto;
         margin-bottom: 20px;
     }
+    
 }
 
 /* Ordinateurs (de 1025px à 1200px) */

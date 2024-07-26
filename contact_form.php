@@ -2,7 +2,7 @@
                         <div class="mb-3">
                             <div class="row">
                                 <div class="col-md-6 col-sm-12">
-                                    <small>Last name First Name <span class="text-danger">*</span></small>
+                                    <small>Last name & First Name <span class="text-danger">*</span></small>
                                     <input type="text" name="nom" class="shadow-none form-control py-3" required>
                                 </div>
 
